@@ -1097,11 +1097,11 @@ export const assessmentsDataJ = [
       [9,'My bed partner says my snoring keeps her/him from sleeping.','select',0],
       [10,'I\'ve fallen asleep driving.','select',0]
     ]
-  },
+  },  // caregiver stress' algorithm needs to be fine tuned here, or we need to find a way to alter the scoring algorithm to match the pdf
   {
     "id"            : 21,
     "title"         : "Caregiver Stress",
-    "questionPrefix": "",
+    "questionPrefix": "During the past week or so, I have…",
     "maxScore"      : 6,
     "midScore"      : 3,
     "minScore"      : 1,
@@ -1123,16 +1123,45 @@ export const assessmentsDataJ = [
     "image"         : 'intro-caregiver.png',
     "choices"       : [
           [
-            {title: 'Never', value: '0', score: 0},
-            {title: 'Almost Never', value: '1', score: 1},
-            {title: 'Sometimes', value: '2', score: 2},
-            {title: 'Fairly often', value: '3', score: 3},
-            {title: 'Very often', value: '4', score: 4}
+            {title: 'Yes', value: '0', score: 0},
+            {title: 'No', value: '1', score: 1}
+          ],
+          [
+            {title: 'Yes', value: '1', score: 1},
+            {title: 'No', value: '0', score: 0}
+          ],
+          [
+            {title: '1', value: '1', score: 1},
+            {title: '2', value: '2', score: 2},
+            {title: '3', value: '3', score: 3},
+            {title: '4', value: '4', score: 4},
+            {title: '5', value: '5', score: 5},
+            {title: '6', value: '6', score: 6},
+            {title: '7', value: '7', score: 7},
+            {title: '8', value: '8', score: 8},
+            {title: '9', value: '9', score: 9},
+            {title: '10', value: '10', score: 10}
           ]
     ],
     "questions"     :[
-      [1,'','select',0],
-      [2,'','select',0]
+      [1,'Had trouble keeping my mind on what I was doing','select',1],
+      [2,'Felt that I couldn’t leave my relative alone ','select',1],
+      [3,'Had difficulty making decisions','select',1],
+      [4,'Felt completely overwhelmed ','select',1],
+      [5,'Felt useful and needed ','select',0],
+      [6,'Felt lonely','select',1],
+      [7,'Been upset that my relative has changed so much from his/her former self','select',1],
+      [8,'Felt a loss of privacy and/or personal time','select',1],
+      [9,'Been edgy or irritable','select',1],
+      [10,'Had sleep disturbed because of caring for my relative','select',1],
+      [11,'Had a crying spell','select',1],
+      [12,'Felt strained between work and family responsibilities','select',1],
+      [13,'Had back pain','select',1],
+      [14,'Felt ill (headaches, stomach problems or common cold)','select',1],
+      [15,'Been satisfied with the support my family has given me','select',0],
+      [16,'Found my relative’s living situation to be inconvenient or a barrier to care','select',1],
+      [17,'On a scale of 1 to 10, with 1 being “not stressful” to 10 being “extremely stressful,” please rate your current level of stress. ','select',2],
+      [18,'On a scale of 1 to 10, with 1 being “very healthy” to 10 being “very ill,” please rate your current health compared to what it was this time last year. ','select',2]
     ]
   },
   {
@@ -1276,16 +1305,33 @@ export const assessmentsDataJ = [
     "image"         : 'intro-nicotine.png',
     "choices"       : [
           [
-            {title: 'Never', value: '0', score: 0},
-            {title: 'Almost Never', value: '1', score: 1},
-            {title: 'Sometimes', value: '2', score: 2},
-            {title: 'Fairly often', value: '3', score: 3},
-            {title: 'Very often', value: '4', score: 4}
+            {title: 'No', value: '0', score: 0},
+            {title: 'Yes', value: '1', score: 1}
+          ],
+          [
+            {title: 'After 60 minutes', value: '0', score: 0},
+            {title: '31-60 minutes', value: '1', score: 1},
+            {title: '6-30 minutes', value: '2', score: 2},
+            {title: 'Within 5 minutes', value: '3', score: 3}
+          ],
+          [
+            {title: 'The first in the morning', value: '1', score: 1},
+            {title: 'Any Other', value: '0', score: 0}
+          ],
+          [
+            {title: '10 or less', value: '0', score: 0},
+            {title: '11-20', value: '1', score: 1},
+            {title: '21-30', value: '2', score: 2},
+            {title: '31 or more', value: '3', score: 3}
           ]
     ],
     "questions"     :[
-      [1,'','select',0],
-      [2,'','select',0]
+      [1,'How soon after you wake up do you smoke your first cigarette?','select',1],
+      [2,'Do you find it difficult to refrain from smoking in places where it is forbidden?','select',0],
+      [3,'Which cigarette would you hate most to give up?','select',2],
+      [4,'How many cigarettes per day do you smoke?','select',3],
+      [5,'Do you smoke more frequently during the first hours after awakening than during the rest of the day?','select',0],
+      [6,'Do you smoke even if you are so ill that you are in bed most of the day?','select',0]
     ]
   },
   {
@@ -1430,22 +1476,27 @@ export const assessmentsDataJ = [
     "image"         : 'intro-satisfaction.png',
     "choices"       : [
           [
-            {title: 'Never', value: '0', score: 0},
-            {title: 'Almost Never', value: '1', score: 1},
-            {title: 'Sometimes', value: '2', score: 2},
-            {title: 'Fairly often', value: '3', score: 3},
-            {title: 'Very often', value: '4', score: 4}
+            {title: 'Strongly disagree', value: '1', score: 1},
+            {title: 'Disagree', value: '2', score: 2},
+            {title: 'Slightly Disagree', value: '3', score: 3},
+            {title: 'Neither agree nor disagree', value: '4', score: 4},
+            {title: 'Slightly Agree', value: '5', score: 5},
+            {title: 'Agree', value: '6', score: 6},
+            {title: 'Strongly agree', value: '7', score: 7}
           ]
     ],
     "questions"     :[
-      [1,'','select',0],
-      [2,'','select',0]
+      [1,'In most ways my life is close to my ideal. ','select',0],
+      [2,'The conditions of my life are excellent.','select',0],
+      [3,'I am satisfied with life.','select',0],
+      [4,'So far I have gotten the important things I want in life.','select',0],
+      [5,'If I could live my life over, I would change almost nothing. ','select',0]
     ]
   },
   {
     "id"            : 28,
     "title"         : "Sexual Trauma",
-    "questionPrefix": "",
+    "questionPrefix": "In the last month, how often have you been bothered by...",
     "maxScore"      : 85,
     "midScore"      : 24,
     "minScore"      : 0,
@@ -1467,22 +1518,37 @@ export const assessmentsDataJ = [
     "image"         : 'intro-sexual.png',
     "choices"       : [
           [
-            {title: 'Never', value: '0', score: 0},
-            {title: 'Almost Never', value: '1', score: 1},
-            {title: 'Sometimes', value: '2', score: 2},
-            {title: 'Fairly often', value: '3', score: 3},
-            {title: 'Very often', value: '4', score: 4}
+            {title: 'Not at all', value: '1', score: 1},
+            {title: 'A little bit', value: '2', score: 2},
+            {title: 'Moderately', value: '3', score: 3},
+            {title: 'Quite a bit', value: '4', score: 4},
+            {title: 'Extremely', value: '5', score: 5}
           ]
     ],
     "questions"     :[
-      [1,'','select',0],
-      [2,'','select',0]
+      [1,'Repeated, disturbing memories, thoughts, or images of a stressful experience from the past?','select',0],
+      [2,'Repeated, disturbing dreams of a stressful experience from the past?','select',0],
+      [3,'Suddenly acting or feeling as if a stressful experience were happening again (as if you were reliving it)?','select',0],
+      [4,'Feeling very upset when something reminded you of a stressful experience from the past?','select',0],
+      [5,'Having physical reactions (e.g., heart pounding, trouble breathing, or sweating) when something reminded you of a stressful experience from the past? ','select',0],
+      [6,'Avoiding thinking about or talking about a stressful experience from the past or avoid having feelings related to it?','select',0],
+      [7,'Avoid activities or situations because they remind you of a stressful experience from the past?','select',0],
+      [8,'Trouble remembering important parts of a stressful experience from the past?','select',0],
+      [9,'Loss of interest in things that you used to enjoy?','select',0],
+      [10,'Feeling distant or cut off from other people?','select',0],
+      [11,'Feeling emotionally numb or being unable to have loving feelings for those close to you?','select',0],
+      [12,'Feeling as if your future will somehow be cut short?','select',0],
+      [13,'Trouble falling or staying asleep? ','select',0],
+      [14,'Feeling irritable or having angry outbursts?','select',0],
+      [15,'Having difficulty concentrating?','select',0],
+      [16,'Being “super alert” or watchful on guard?','select',0],
+      [17,'Feeling jumpy or easily startled? ','select',0]
     ]
   },
   {
     "id"            : 29,
     "title"         : "Spirituality",
-    "questionPrefix": "",
+    "questionPrefix": "The following items deal with ways you coped with a significant trauma or negative event in your life. There are many ways to try to deal with problems. These items ask what part religion played in what you did to cope with this negative event. Obviously different people deal with things in different ways, but we are interested in how you tried to deal with it. Each item says something about a particular way of coping. We want to know to what extent you did what the item says. How much or how frequently. Don't answer on the basis of what worked or not – just whether or not you did it. Use these response choices. Try to rate each item separately in your mind from the others. Make your answers as true FOR YOU as you can.",
     "maxScore"      : 5,
     "midScore"      : 2,
     "minScore"      : 0,
@@ -1504,16 +1570,27 @@ export const assessmentsDataJ = [
     "image"         : 'intro-spirituality.png',
     "choices"       : [
           [
-            {title: 'Never', value: '0', score: 0},
-            {title: 'Almost Never', value: '1', score: 1},
-            {title: 'Sometimes', value: '2', score: 2},
-            {title: 'Fairly often', value: '3', score: 3},
-            {title: 'Very often', value: '4', score: 4}
+            {title: 'Not at all', value: '1', score: 1},
+            {title: 'Somewhat', value: '2', score: 2},
+            {title: 'Quite a bit', value: '3', score: 3},
+            {title: 'A great deal', value: '4', score: 4}
           ]
     ],
     "questions"     :[
-      [1,'','select',0],
-      [2,'','select',0]
+      [1,'Looked for a stronger connection with God.','select',0],
+      [2,'Sought God’s love and care.','select',0],
+      [3,'Sought help from God in letting go of my anger.','select',0],
+      [4,'Tried to put my plans into action together with God.','select',0],
+      [5,'Tried to see how God might be trying to strengthen me in this situation.','select',0],
+      [6,' Asked forgiveness for my sins.','select',0],
+      [7,'Focused on religion to stop worrying about my problems.','select',0],
+      [8,'Wondered whether God had abandoned me.','select',0],
+      [9,'Felt punished by God for my lack of devotion.','select',0],
+      [10,'Wondered what I did for God to punish me.','select',0],
+      [11,'Questioned God’s love for me.','select',0],
+      [12,'Wondered whether my church had abandoned me.','select',0],
+      [13,'Decided the devil made this happen.','select',0],
+      [14,'Questioned the power of God.','select',0]
     ]
   }
 ];
