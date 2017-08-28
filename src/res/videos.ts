@@ -11,7 +11,7 @@ export const alcoholDrugsVids = [
     "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
     "title":"02-Stress_reactions_after_deployment",
     "author":"T2","url":"","featured":false}  
-]
+];
 
 export const lifeStressVids = [
   {
@@ -161,3 +161,18 @@ export const lifeStressVids = [
 ];
 
 export default lifeStressVids;
+
+export const healthWellVids = [
+{
+    "id":1,
+    "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
+    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125539335001_Life-Stress---01-Critical-incident-stress.mp4?pubId=1041122098001&videoId=1125533703001",
+    "title":"01-Critical_incident_stress",
+    "author":"T2","url":"","featured":false},
+  {
+    "id":2,
+    "img":"1041122098001_1125563573001_vs-1125555002001.jpg",
+    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
+    "title":"02-Stress_reactions_after_deployment",
+    "author":"T2","url":"","featured":false}  
+];
