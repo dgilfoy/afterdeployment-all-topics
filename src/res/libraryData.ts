@@ -1155,70 +1155,350 @@ export const anxietyLib = {
       id : 1,
       title : '1.0 Introduction to Anxiety',
       content : `
-
+        <p>Anxiety can be described as motivation, excitement, tension, anticipation,  stress, worry, nerves, and phobias. Anxiety can be a normal reaction to new and positive challenges or to stressful events.  
+        But, anxiety can also be the result of distorted thinking and other controllable causes; if not  controlled, anxiety  can become problematic and  interfere with  your health and wellness.</p>
+        <p>Anxiety is a mix of thoughts, emotions and physical reactions.  People describe experiencing “butterflies” or “knots” in their bellies, or a pounding heart, or chest tightness.  
+        Anxiety can be useful, signaling the body to go “on alert” and prepare for action.  Anxiety can be a motivator or a response to the anticipation of an event.  
+        Anxiety can signal a person to act, which can facilitate coping with a difficult situation.</p>
+        <p>Worry is the thinking part of anxiety in which the worrier regularly predicts the occurrence of negative or catastrophic events in his life or in the life of loved ones. Worried thinking often leads anxiety’s physical symptoms (rapid heartbeat, restlessness, disrupted sleep, etc.).</p>
+        <p>Everyone worries about something at one time or another. But, worry becomes problematic when it is chronic and interferes with daily living.&nbsp; It becomes a cycle that is difficult to break and may cause you to make significant lifestyle changes like isolating yourself or avoiding public places.&nbsp; Worried thinking focuses on the likelihood of negative outcomes without realistic efforts to plan or problem solve.&nbsp; Worry is about living in the future by always thinking “What if?”<br>&nbsp;</p>
+        <p>Here are some signs that worry might be problematic in your life:</p>
+        <ul><li>Here are some signs that worry might be problematic in your life:</li>
+        <li>You are chronically on alert and thinking about potential future dangers or threats</li>
+        <li>You are consistently making negative predictions about the future</li>
+        <li>You tend to overestimate the likelihood that something bad will happen</li>
+        <li>You repeat worried thoughts over and over again in your head</li>
+        </ul><p><br><strong>Here is an example of worry leading to anxiety:</strong></p>
+        <p><em>Jim hopes to be promoted at his job.&nbsp; He has been in the same position for five years and has been working hard.&nbsp; He was deployed for 12 months and has returned to work.&nbsp; Since returning from deployment, he has received consistently positive feedback and yearly reviews from his employer.&nbsp; Jim passed the preliminary review for the promotion, and has a formal, in-person interview coming up.&nbsp; Jim is worried (predicting) that he will not get the job, even though he believes that he is the most qualified candidate for the position.&nbsp; Jim thinks he will be too anxious to accurately answer the interviewer’s questions, even though he has been preparing himself for two weeks.&nbsp; He finds himself wondering: “What if my mind goes blank? What if they view my deployment negatively? What if the roads are icy and I can’t get to the interview on time? What if I spill coffee on myself the morning before the interview?” Every time he thinks (worries) about the interview his heart races, his palms sweat and he has butterflies (anxiety).</em><br><br><br>This example shows how worried thinking can lead to anxiety. Even though Jim is qualified for the position and has been preparing for the interview, he has been focusing most of his attention on the future (e.g. “What if?”) and the catastrophic outcomes to follow.&nbsp; He has not engaged in any planning or problem solving.<br><br><br><strong>Another example:</strong></p>
+        <p><em>Steve is scheduled to compete in a national karate competition in two weeks.&nbsp; His military training has mentally prepared him, and the required PT has kept him in shape. He has practiced.&nbsp; His friends and family will be traveling from around the country to watch him compete.&nbsp; He doesn’t want to let them, his coach or himself down.&nbsp; His motivation and excitement cause him to practice more frequently and review videos from previous competitions to gain new insight and improve his techniques.</em><br><br><br>This example shows how worry can be constructive. Steve’s thinking does not involve predicting catastrophic outcomes.&nbsp; Rather, he interprets his body’s arousal as motivation and excitement, leading him toward planning and problem solving strategies. These include continued practice and review of his previous competitions to improve his technique.</p>
       `
     },
     {
       id : 2,
       title : '2.0 Anxiety Disorders',
       content : `
-      
+        <p>Experiencing some degree of anxiety in life is normal. However, anxiety becomes a problem when it is overwhelming and causes significant change to your lifestyle or relationships. An anxiety disorder can keep a person from coping with life’s ups and downs and make a person feel anxious most of the time, sometimes without any identifiable cause.</p>
+        <div class="field-item even" property="content:encoded"><p>Anxious feelings may be so uncomfortable that an individual will do anything to avoid the feelings, including stopping or changing everyday activities.&nbsp; Anxiety becomes an “anxiety disorder” when it significantly interferes with common daily activities.&nbsp; For example, severe anxiety can prevent a person from going to work or engaging in meaningful activities with friends and family.</p>
+        <p>&nbsp;</p>
+        <p><br clear="ALL"><br></p><table width="814" height="396" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 372px; height: 28px;">
+        <p align="center"><strong>ANXIETY</strong></p>
+        </td>
+        <td style="width: 373px; height: 28px;">
+        <p align="center"><strong>ANXIETY DISORDER</strong></p>
+        </td>
+        </tr><tr><td style="width: 372px; height: 36px;">
+        <ul><li>Feels anxious on occasion.&nbsp;</li>
+        </ul></td>
+        <td style="width: 373px; height: 36px;">
+        <ul><li>Feels anxious most of the time, most days.</li>
+        </ul></td>
+        </tr><tr><td style="width: 372px; height: 45px;">
+        <ul><li>Anxious feelings are usually caused by a stressful event.</li>
+        </ul></td>
+        <td style="width: 373px; height: 45px;">
+        <ul><li>Anxious feelings might be caused by a stressful event or might occur without any cause.</li>
+        </ul></td>
+        </tr><tr><td style="width: 372px; height: 40px;">
+        <ul><li>Anxious feelings go away after the stressful event is over.</li>
+        </ul></td>
+        <td style="width: 373px; height: 40px;">
+        <ul><li>Anxious feelings don’t go away after a stressful event, and a stressful event might not even be the cause for the anxiety.</li>
+        </ul></td>
+        </tr><tr><td style="width: 372px; height: 40px;">
+        <ul><li>Affects everyone from time to time.</li>
+        </ul></td>
+        <td style="width: 373px; height: 40px;">
+        <ul><li>Affects approximately 40 million American adults aged 18 or older.</li>
+        </ul></td>
+        </tr><tr><td style="width: 372px; height: 47px;">
+        <ul><li>Doesn’t affect a person’s ability to carry out daily tasks at home, at work, and in relationships with others.&nbsp;</li>
+        </ul></td>
+        <td style="width: 373px; height: 47px;">
+        <ul><li>Makes it difficult or impossible to carry out daily tasks at home, at work, and in relationships with others.</li>
+        </ul></td>
+        </tr><tr><td style="width: 372px; height: 40px;">
+        <ul><li>Helps a person to cope with difficult situations.</li>
+        </ul></td>
+        <td style="width: 373px; height: 40px;">
+        <ul><li>Prevents person from being able to cope with both familiar and difficult situations.</li>
+        </ul></td>
+        </tr></tbody></table><p>&nbsp;</p>
+        <p>The body will also react to anxiety that lacks an actual “cause.”&nbsp; For example, during a panic attack, there may be physical symptoms such as dizziness, blurred vision, numbness, tingling, stiff muscles, and breathlessness, possibly all in response to an imagined threat.&nbsp; Even though there is no actual threat, the body’s reactions are interpreted as life-threatening even though they are not dangerous.&nbsp; This is called catastrophic thinking.&nbsp; An individual with catastrophic thinking can get caught up in a vicious cycle: physical symptoms lead to anxiety, and anxiety ‘feeds’ back into the physical symptoms, worsening the intensity of those symptoms.&nbsp; This has the net effect of increasing the tendency to make catastrophic predictions<br>&nbsp;</p>
+        <p>In addition, catastrophic and hopeless thoughts about never being able to control the anxiety make the situation worse and can cause depression by increasing a sense of hopelessness.</p>
+        </div>
+        <p>Severe anxiety can prevent a person from going to work or engaging in meaningful activities with friends and family.  Anyone can be affected by problems with anxiety.  In fact, as many as 25% of all adults in America experience intense levels of anxiety at some time in life.  Individuals with one type of anxiety disorder are at a greater risk for other types of anxiety disorders and related problems.</p>
+        <div class="field-item even" property="content:encoded"><p>There are many different types of anxiety disorders. One of the best ways of learning about anxiety disorders is to hear people describe their experiences.&nbsp; Here are several types of anxiety disorders and some examples of real people describing their experiences with some of the most common types:&nbsp;&nbsp;&nbsp;<br>&nbsp;</p>
+        <p><strong>Generalized Anxiety Disorder (GAD)</strong></p>
+        <p>GAD is defined as worrying constantly about small or large concerns.&nbsp; GAD is usually accompanied by physical symptoms like restlessness, fatigue, irritability, and trouble sleeping.<br>&nbsp;</p>
+        <p><strong>Examples of GAD: </strong></p>
+        <p>Anna, age 38:&nbsp; “Here’s an example of how my worry just takes over.&nbsp; My son is late coming home from school.&nbsp; I panic, thinking the worst—he’s in trouble.&nbsp; I’m overwhelmed by anxiety and become restless, unable to focus on anything else and unable to relax.”<br>&nbsp;</p>
+        <p>Carlos, age 27:&nbsp; “I worry even when nothing happens.&nbsp; I can be sitting somewhere comfortable;, somewhere I’ve sat before many, many times.&nbsp; Nothing has ever gone wrong, but I feel like something is going to happen.&nbsp; I have a gut feeling that an impending doom is going to manifest itself very soon, or that something somewhere is not right.&nbsp; It’s as if I can sense that something bad is going to happen soon or is currently happening somewhere else, but it never does.”<br>&nbsp;</p>
+        <p>Sonya, age 22: “I’ve come to a realization that I think I’ve had a problem with worry for a long time.&nbsp; It hasn’t been debilitating and I’ve never had a full-out panic attack.&nbsp; It seems to come and go. Some days I’ll feel totally relaxed and at ease, other days I’ll feel SO nervous and edgy for absolutely no reason.”<br>&nbsp;</p>
+        <p>Lynn, age 42: “I tend to be a general worrier.&nbsp; One thing that really gets me is that I find myself scared to take medication, not just for anxiety but I am scared to take anything after I read the potential side effects.&nbsp; If I find myself so miserable that I break down and take the medication I start having so much anxiety over what might happen I don’t know if it’s worth it.&nbsp; Also I become so aware of any new feeling in my body and worry it’s the meds.&nbsp; This is really a pain to live like this.&nbsp; The older I get the more this is becoming a big issue.”<br>&nbsp;</p>
+        <p>Maria, age 39: “As long as I can remember I have ALWAYS been a worry wart…when I was younger it was about not too serious issues, but now that I am an adult I constantly worry about major issues and decisions in my life.”<br>&nbsp;</p>
+        <p><strong>What a Provider Might Ask to Evaluate for Generalized Anxiety Disorder:</strong></p>
+        <ul><li>During the last six months, have you found that you have persistent worry or anxiety about a variety of different things (e.g., safety, money, health, work, family, school, etc.) most of the time and more often than other people?</li>
+        <li>Do you find it difficult to control your worrying or does it interfere with your ability to function in important areas of your life?</li>
+        <li>Does your frequent worrying or anxiety cause physical symptoms such as feeling keyed up, restlessness, fatigue/tired, muscle tension, poor concentration, or difficulty sleeping,&nbsp;etc. (for more days than not during the past six months)?<br>&nbsp;</li>
+        </ul><p><strong>Panic Disorder</strong></p>
+        <p>Panic Disorder is characterized by recurrent panic attacks which involve sudden feelings of fear and terror for no obvious reason.&nbsp; Panic attacks can happen without warning and are usually accompanied by physical symptoms such as difficulty breathing, rapid heartbeat, dizziness or chest pain.<br>&nbsp;</p>
+        <p><strong>Examples of Panic Disorder:</strong></p>
+        <p>David, age 29: “I get scared that I'm about to die, heart palpitations, dizziness, feeling like nothing is real, I feel like I can't breathe good...like I can't take a deep breath. Those are just a few of the symptoms I get.&nbsp; For some reason night time is really bad for me.&nbsp; When I am going to bed I worry that I will die in my sleep and then I start getting heart palpitations and all the other symptoms.&nbsp; Yesterday was especially bad for me.&nbsp; I always feel like I won't make it to the next day."<br><br>Nicole, age 21:&nbsp;&nbsp; “I feel like mine are more than these attacks because of how horrible I feel and how unaware I am of things.&nbsp; I don't really panic and get the heart palps as much, just feel really ill like I'm going to die and very hopeless. I get nauseous, dizziness, cold sweats, trembling when yawning (weird I know), sometimes a feeling of restless legs, headache, sweaty palms, basically I just feel like death.”<br>&nbsp;</p>
+        <p><strong>What a Provider Might Ask in Evaluating for Panic Disorder:</strong></p>
+        <ul><li>In the past month have you had periods of extreme anxiety and/or fright (panic attacks)?</li>
+        <li>In the past month have you had uncomfortable physical symptoms including rapid heartbeat, chest pains, sweating, shakiness, dizziness, or shortness of breath?</li>
+        <li>Have you developed a fear of having a panic attack?</li>
+        <li>Have you experienced any changes from your usual behavior?</li>
+        <li>Do you fear dying or losing control?<br>&nbsp;</li>
+        </ul><p><strong>Social Anxiety Disorder</strong></p>
+        <p>Social Anxiety Disorder or (Social Phobia) is characterized by marked anxiety in social situations in which the individual unusually and excessively fears being criticized or scrutinized by others.<br><br><strong>Examples of Social Anxiety Disorder:</strong></p>
+        <p>Tom, age 24: “Sometimes when I say or do something really stupid in front of people, I start putting myself down and cussing myself out when I’m alone.&nbsp; It could be something really simple like saying the wrong thing or saying something that I think doesn’t make any sense at all and realizing that right after saying it.&nbsp; Why can’t I be as witty as other people when communicating?&nbsp; I find myself always saying stupid things and feeling stupid after saying it.&nbsp; I hate the way I am and how I always embarrass myself in front of people for little things.”</p>
+        <p>Sara, age 19: “I always have seemed to feel anxious in social situations.&nbsp; Especially when I do not know the people well.&nbsp; It seems I cannot function in large groups, being more comfortable in smaller groups of 10 or fewer people. I worry a lot about social situations.&nbsp; I turn down invitations to social events and avoid situations that make my anxiety unbearable.&nbsp; It’s like my spider sense is always tingling for no reason.”<br><br>Lenore, age 26: “I have absolutely no self-confidence, and just thinking about social gatherings makes me feel depressed about myself.&nbsp; If I have a couple of weeks to prepare myself, I can drag through alright.&nbsp; But even going to parties with people I know, or running into someone I know is difficult.”</p>
+        <p>Tina, age 29: “I dread going out for dinner in groups larger than about six.&nbsp; I hate sitting around the table trying to think of something to talk about that isn’t boring, worrying that people think I’m boring and feeling that everyone is noticing that no one is talking to me — trying and failing to catch someone’s attention by speaking to them and feeling really stupid…thinking everyone else is wittier and funnier than me.”</p>
+        <p>Gino, age 35: “I feel very self-conscious about blushing.&nbsp; The slightest little dig or comment towards me results in my face going bright red and I can feel myself start sweating, basically making me look like a fool.&nbsp; This also happens in other situations such as walking into a place with lots of people around, or doing things like talking one on one to someone I don’t know that well.”<br>&nbsp;</p>
+        <p><strong>What a Provider Might Ask in Evaluating for Social Anxiety:</strong></p>
+        <ul><li>In the past month, did you have an intense fear of embarrassment or being criticized by others in social, occupational, or performance situations (e.g., eating in front of people, speaking in front of others, talking to people you did not know, dating, attending parties or social gatherings, etc.)?</li>
+        <li>In the past month, did you avoid or feel extremely anxious or distressed in any feared social, occupational, or performance situations?</li>
+        <li>In the past month, did your intense fear of being embarrassed or criticized by other people in social, occupational, or performance situations cause an inability to function?</li>
+        </ul></div>
       `
     },
     {
       id : 3,
       title : '3.0 Other Problems Associated with Anxiety',
       content : `
-      
+        <div class="field-item even" property="content:encoded"><p>Anxiety is often accompanied by other conditions.</p>
+          <ul><li><strong>Alcohol abuse:</strong> Many people who feel anxious use alcohol to try to calm down and cope with anxious feelings, especially in social situations.&nbsp; However, alcohol can make anxiety and panic symptoms worse.<br>&nbsp;</li>
+          <li><strong>Depression:</strong> Those with anxiety disorders are commonly affected by depression, and approximately half of those individuals diagnosed with depression also have symptoms of anxiety disorders.&nbsp; This is often caused by a sense of loss of control when an anxiety disorder causes significant disruption in life.&nbsp; When the anxiety disorder is treated successfully, the depression often improves as well.<br>&nbsp;</li>
+          <li><strong>Eating disorders:</strong> Individuals with eating disorders spend a lot of time focused on their weight, appearance, food intake, and exercise. They often have an intense and unusual fear of gaining weight. Contrary to eating too little, some people who experience symptoms of anxiety eat, and potentially overeat, to calm themselves. Repeating this pattern over time can lead to weight gain and obesity.<br>&nbsp;</li>
+          <li><strong>Medical conditions:</strong> Anxiety problems can lead to a dependence on anxiety medications.&nbsp; In addition, anxiety can cause a person to avoid medical treatment and dental procedures; on the opposite side of the spectrum, their unrealistic fear of disease may lead them to engage in unnecessary, and sometimes dangerous, medical tests and procedures.<br>&nbsp;</li>
+          <li><strong>Sleep Problems:</strong> The symptoms associated with anxiety like racing thoughts, racing heart can interfere with getting to sleep and staying asleep.</li>
+          </ul>
+        </div>
       `
     },
     {
       id : 4,
       title : '4.0 Causes of Anxiety',
       content : `
-      
+        <div class="field-item even" property="content:encoded">
+          <p>Family history and genetics, learned behaviors, brain chemistry, and experiencing traumatic events have all been identified as contributing to or increasing the risk of developing anxiety.<br><br><strong>Family History/Genetics</strong><br>Often anxiety disorders are hereditary.&nbsp; If parents or other close relatives have had problems with anxiety, children are more likely to develop an anxiety disorder.<br><br><strong>Learning</strong><br>Children learn how to behave by observing others.&nbsp; Parents who regularly predict negative outcomes increase the probability that their children will learn this style of thinking and develop anxious behaviors.<br><br><strong>Brain Chemistry</strong><br>Thoughts and feelings are regulated by chemical messengers in the brain, called&nbsp;neurotransmitters.&nbsp; If theses neurotransmitters become unbalanced or do not work correctly, anxiety symptoms can increase.<br><br><strong>Traumatic Events</strong><br>A traumatic event, such as witnessing a death, or being in combat, can lead to feelings of anxiety.&nbsp; If unable to resolve the anxiety surrounding the event, anxiety can increase and morph into other anxious thoughts and behaviors.</p>
+          <p>&nbsp;</p>
+        </div>
       `
     },
     {
       id : 5,
       title : '5.0 Factors that Make Anxiety Worse',
       content : `
-      
+        <div class="field-item even" property="content:encoded"><p style="margin-left:18.0pt;">Recognizing that life circumstances can worsen is an important first step toward reducing anxiety.&nbsp; In this section you will learn a little more about the following factors:</p>
+          <ul><li style="margin-left: 18pt;">Stress</li>
+          <li style="margin-left: 18pt;">Caffeine and Other Stimulants</li>
+          <li style="margin-left: 18pt;">Problems Being Assertive</li>
+          <li style="margin-left: 18pt;">Unrealistic Thinking</li>
+          <li style="margin-left: 18pt;">Poor Coping Skills</li>
+          </ul><p>&nbsp;</p>
+        </div>
+        <div class="field-item even" property="content:encoded">
+          <p>Stress affects everyone; however, overwhelming stress can result in anxiety, especially for people who are vulnerable or actively diagnosed with an anxiety disorder.</p>
+          <p><strong>Relationship/Family stress</strong>: Relationships with significant others and family members can be a great source of support.&nbsp; 
+          When these relationships become strained, which frequently happens following a deployment, the support gained from those relationships is affected.&nbsp; 
+          This can cause an increase in stress and worries.</p>
+          <p><strong>Deployment stress:</strong>&nbsp; The uncertainties created by deployment can cause significant stress.&nbsp; 
+          These uncertainties affect both the deployed and those who are left at home.&nbsp; Increased responsibilities, less support, and changed roles can increase the likelihood of worry and anxiety.</p>
+          <p>
+          <strong>Job stress:</strong> Returning from a deployment often means returning to a different kind of work or starting a new job.&nbsp; These changes can be very stressful and can make anxiety worse.</p>
+        </div>
+        <div class="field-item even" property="content:encoded">
+          <p>Cutting back on caffeine or going “cold turkey” can cause a slight increase in anxiety and physical symptoms (e.g. headaches) at first, but this will decrease as your body adjusts.</p>
+          <p>Nicotine in cigarettes or smokeless tobacco can also increase anxiety.&nbsp; If you use caffeine and/or nicotine regularly, you might not even realize their impact on your mood.&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>Assertive communication is expressing thoughts and feelings in a non-threatening and non-aggressive manner.  Expressing feelings to others often involves some level of personal assertiveness so that thoughts and feelings can be directly and honestly communicated.  Individuals who are not assertive typically believe that their requests or ideas will not be respected and valued, leading to and maintaining feelings of anxiety.</p>
+        </div>
+        <div class="field-item even" property="content:encoded">
+        <p>Anxiety often affects an individual’s ability to think clearly and discriminate between rational and irrational thoughts.&nbsp; Here are some examples of distorted thinking that can make anxiety worse:<br><br><strong>All-or-Nothing Thinking:</strong> Thinking in terms of either/or, black-and-white, good or bad, right or wrong<br><br><strong>Exaggerating or Minimizing:</strong> Exaggerating is making too big of a deal out of a negative experience, or making things much more negative than they really are.&nbsp; Exaggerated thinking is also compared to “making a mountain out of a molehill” or “blowing things way out of proportion.”&nbsp; Minimizing means not giving oneself or others enough credit for doing something good.&nbsp; Too little is made out of something, such as a compliment or success.<br><br><strong>Overgeneralizing:</strong> Overgeneralization involves thinking that something that happened once or twice will keep happening again and again, especially if it is something bad.<br><br><strong>Mental Filter:</strong> Using a mental filter means only seeing the bad and not the good side of things. The positive is forgotten or ignored, and only the bad things are considered.<br><br><strong>Not accepting the positive:</strong> People with this thinking error reject anything positive, especially positive information about themselves.<br><br><strong>Reasoning with feelings instead of logic or facts:</strong> Saying, “I feel like a loser, so I must be a loser,” is an example of using feelings instead of facts as proof of truth.<br><br><strong>Jumping to Conclusions:</strong> This type of thinking error happens when people think they know what will happen without first finding out the facts. Expecting something bad to happen usually goes along with this type of thinking. Mind-reading is another way of jumping to conclusions. An example of mind-reading is when a person thinks he knows what others are thinking, without finding out the truth first. Mind-reading often results in incorrectly believing what the other person is thinking.<br><br><strong>Labeling:</strong> A person can label&nbsp;his or herself, or label others, based on very little information or based on mistakes that were made. When people label themselves they often do so harshly. This has the effect of making it harder to accept mistakes. And, once the labels get “attached,” they become difficult to remove.<br><br><strong>“Should” Statements:</strong> “Should” statements are based on rules or standards that people set up for themselves and others to follow, but are usually impossible to do all of the time. People sometimes set the standards so high that they set themselves and others up to fail, which only confirms the negative thoughts.<br><br><strong>Taking it personally:</strong> Taking things too personally involves the assumption that others do negative things on purpose. People who take things too personally may also tend to take responsibility for something that they’re not responsible for.</p>
+        </div>
+        <p>Anxiety is unlikely to resolve or improve when effective coping skills are absent.  Coping skills help individuals deal with a problem or with general life stress. When a person doesn’t know how to cope with life stress, his or her anxiety can increase. Poor coping skills include things like avoiding or denying the problem, drinking or drugging, not asking for help, and self-blaming.</p>
       `
     },
     {
       id : 6,
       title : '6.0 Understanding Panic Disorder',
       content : `
-      
+        <div class="field-item even" property="content:encoded"><p>&nbsp;Panic Disorders are extremely common in the civilian population.&nbsp; People who suffer from panic attacks often mistake the symptoms for a severe illness.&nbsp; For example, heart attack, stroke, severe mental illness, lung and breathing problems, or brain tumors.&nbsp; While panic symptoms can be uncomfortable and certainly are a nuisance, it’s important to understand that they are not dangerous, they can’t hurt you.&nbsp; As a matter of fact, once people stop fearing their symptoms, they tend to go away. Due to combat and re-integration experiences, service members and veterans have a high likelihood of experiencing physical symptoms of anxiety and then developing catastrophic thinking about the meaning of the symptoms.<br>&nbsp;</p>
+          <p>Many people experience feelings of panic.&nbsp; It is normal and healthy to feel a sense of panic when under fire by the enemy or when a child goes missing while playing at the park.&nbsp; Under these circumstances, nobody interprets the symptoms as an illness.&nbsp; People expect to feel this way in a crisis and the physical sensations go away as soon as the crisis is over.&nbsp; When an actual crisis is present, the physical symptoms signal the body to go ‘on alert’ and prepare for the fight-or-flight response.&nbsp; It was designed to allow&nbsp;humans to protect themselves by confronting the problem (fight) or by removing themselves from the dangerous situation (flight).&nbsp;<br>&nbsp;</p>
+          <p>However, panic attacks can occur when serious situations are not present.&nbsp; When they come “out of the blue” (i.e. without explanation) the physical sensations can be frightening.&nbsp; The physical symptoms of panic are often uncomfortable and produce fear when catastrophic thinking takes over.&nbsp; Because of this, individuals with panic begin to avoid situations in which others might see them or in which they might not be able to escape.&nbsp; Individuals may also avoid physical activities (including formal and informal exercise) that can cause physical responses similar to those experienced in panic.<br>&nbsp;</p>
+          <p>Remember that many people experience feelings of panic and can mistake their symptoms as illness.&nbsp; Let’s take a closer look at the differences between a Panic Attack and a Panic Disorder.&nbsp;<br>&nbsp;</p>
+          <p><strong>Panic Attack</strong></p>
+          <p>A panic attack occurs when an abrupt surge of intense fear or discomfort in which four (or more) of these symptoms develop quickly and reach a peak within minutes.</p>
+          <ul><li>Palpitations, pounding heart, or accelerated heart rate</li>
+          <li>Sweating</li>
+          <li>Trembling or shaking</li>
+          <li>Sensations of shortness of breath or smothering</li>
+          <li>Feeling of choking chest pain or discomfort</li>
+          <li>Nausea or abdominal distress</li>
+          <li>Feeling dizzy, unsteady, lightheaded, or faint</li>
+          <li>De-realization (feelings of unreality) or depersonalization (being detached from oneself)</li>
+          <li>Fear of losing control or going crazy</li>
+          <li>Fear of dying</li>
+          <li>Paresthesia (numbness or tingling sensations)</li>
+          <li>Chills or hot flashes<br>&nbsp;</li>
+          </ul><p><strong>Panic Disorder</strong></p>
+          <p>A panic disorder is specified when unexpected panic attacks happen more than once and the following symptoms and conditions occur:</p>
+          <ul><li>Recurrent, unexpected panic attacks</li>
+          <li>At least one of the panic attacks followed by one month or more of persistent concern about having additional attacks and/or worry about the implications of the attack or its consequences (e.g., losing control, having a heart attack, "going crazy")</li>
+          <li>A significant change in behavior related to the attacks</li>
+          </ul><p><br>A panic disorder is indicated if the panic attacks are not due to the effects of a substance (e.g., drug of abuse, medication) or a general medical condition (e.g., hyperthyroidism), and the panic attacks are not better accounted for by another mental disorder, such as social anxiety (e.g., occurring on exposure to feared social situations), Specific Phobia (e.g., exposure to a specific phobic situation), Obsessive-Compulsive Disorder (e.g., exposing someone to dirt with an obsession about contamination), or Post-Traumatic Stress Disorder (e.g., in response to stimuli associated with a severe stressor, or in response to separation from attachment figures, as in separation anxiety).</p>
+        </div>
+        <h3>What Happens to Thoughts During Panic?</h3>
+        <div class="field-item even" property="content:encoded"><p>People who have panic attacks often feel as if they are the only ones in the world with the problem, the worries that accompany panic attacks have similarities.&nbsp; Catastrophic thoughts associated with panic disorder are usually about misinterpreting physical symptoms as life threatening.&nbsp; Catastrophic thoughts that are a response to the physical symptoms, often keep the panic symptoms going.&nbsp; Here are some examples of catastrophic thoughts related to panic symptoms.</p>
+          <table width="732" style="width: 732px;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 244px; height: 27px;">
+          <p style="text-align: center;"><strong>Catastrophic Thoughts</strong></p>
+          </td>
+          <td style="width: 488px; height: 27px;">
+          <p style="text-align: center;"><strong>Reality</strong></p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 75px;">
+          <p style="text-align: center;"><strong><em>Thought #1: &nbsp;</em></strong><em>“I might die from a heart attack.” </em></p>
+          </td>
+          <td style="width: 488px; height: 75px;">
+          <p style="text-align: center;">Although it may not feel like it at the time, the heart is designed to react in the way it does during a panic attack.&nbsp; It can feel unnatural because an increase in heart rate is usually reserved for vigorous activity.&nbsp; When it happens out of the blue it can be scary.</p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 78px;">
+          <p style="text-align: center;"><strong><em>Thought #2: &nbsp;</em></strong><em>“I might suffocate.”</em></p>
+          </td>
+          <td style="width: 488px; height: 78px;">
+          <p style="text-align: center;">It may not feel pleasant, but you are less likely to suffocate during a panic attack than at any other time because you naturally take in more air.&nbsp; The shortness of breath you may feel is due to your body increasing its demand for oxygen or because of hyperventilation.</p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 78px;">
+          <p style="text-align: center;"><strong><em>Thought #3:&nbsp; &nbsp;</em></strong><em>“I’m going to faint.”</em></p>
+          </td>
+          <td style="width: 488px; height: 78px;">
+          <p style="text-align: center;">Fainting is caused by a drop in blood pressure.&nbsp; During a panic attack your heart is racing and your blood pressure increases.&nbsp; As a result, it is highly unlikely that panic will cause fainting.&nbsp; Fear of fainting often comes about due to the sense of dizziness which accompanies hyperventilation.</p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 64px;">
+          <p style="text-align: center;"><strong><em>Thought #4: </em></strong><em>“I'm having a nervous breakdown or going crazy.”</em></p>
+          </td>
+          <td style="width: 488px; height: 64px;">
+          <p style="text-align: center;">Those who have nervous breakdowns or go crazy probably are not aware of it. Thinking that you are going crazy is a catastrophic thought in response to the physical symptoms of panic.</p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 75px;">
+          <p style="text-align: center;"><strong><em>Thought #5: &nbsp;</em></strong><em>“I’m losing control.” &nbsp;</em></p>
+          </td>
+          <td style="width: 488px; height: 75px;">
+          <p style="text-align: center;">During a panic attack, it can feel like you have lost control.&nbsp; In fact, all that has happened is that you are unable to stop your physical symptoms on demand.&nbsp; In fact, the more you fight them, the worse they get.&nbsp; When you stop trying to control, fight, and fear them, they tend to go away.</p>
+          </td>
+          </tr><tr><td style="width: 244px; height: 89px;">
+          <p style="text-align: center;"><strong><em>Thought #6: &nbsp;</em></strong><em>“I’m going to embarrass or<br>humiliate myself.”</em></p>
+          </td>
+          <td style="width: 488px; height: 89px;">
+          <p style="text-align: center;">During a panic attack, it is very common and quite natural to worry that your body can't take care of what is happening and that others will see your experience as weird or strange.&nbsp; Because when you are so focused on your symptoms, you likely can’t see that others are not paying attention to you.&nbsp; Research has shown that other people usually can’t tell when someone is having a panic attack.</p>
+          </td>
+          </tr></tbody></table><p>&nbsp;</p>
+        </div>
+        <h3>How a Counselor or Therapist Can Help with Panic</h3>
+        <div class="field-item even" property="content:encoded"><p>Here are ways a counselor or therapist can help you with symptoms of panic:</p>
+        <p style="margin-left: 0.25in;"><strong>Reality checks/undoing distorted thinking: </strong>Cognitive distortions and automatic negative thoughts underlie panic.&nbsp; Therapists help an individual to first become aware of the distorted thinking and then to undo it by finding better, more realistic ways to think about a situation. &nbsp;The most important thoughts to change are those that say “these symptoms are dangerous”.&nbsp; Although panic symptoms are uncomfortable and certainly are a nuisance, they can’t hurt you; they are not symptoms of a life threatening illness.&nbsp; As fear of symptoms reduces, the symptoms tend to go away.&nbsp; A therapist can help you learn to tolerate symptoms without fearing them until they go away.</p>
+        <p style="margin-left: 0.25in;"><strong>Breathing techniques: </strong>Therapists teach clients how to notice their breathing during an anxious and panicky time. Breathing techniques are introduced and practiced in session.&nbsp; These breathing strategies can prevent hyperventilation and help an individual to cope with a difficult situation by calming the body and reducing overall stress.</p>
+        <p style="margin-left: 0.25in;"><strong>Exposure/non-avoidance: </strong>Panic attacks are often a reaction to facing physical symptoms that are deemed as threatening or dangerous.&nbsp; An individual reacts to such a threat by avoiding the people, ideas, and locations associated with the onset of symptoms.&nbsp; This avoidance behavior only makes the situation worse.&nbsp; A therapist will help a client learn how to seek out feared physical symptoms on purpose by entering places where the symptoms tend to happen.&nbsp; Learning that even uncomfortable physical symptoms won’t lead to a heart attack or fainting is one of the keys to getting over Panic Disorder.</p>
+        <p>&nbsp;</p>
+        </div>
       `
     },
     {
       id : 7,
       title : '7.0 Anxiety Affects Family Members Too',
       content : `
-      
+        <p>Anxiety symptoms are wide-ranging and affect people in most areas of their lives so it is no surprise that anxiety can affect relationships with family, significant others, and friends.  
+        Anxiety disorders can be stressful for family members too.</p>
+        <div class="field-item even" property="content:encoded"><p><strong>Social Isolation</strong></p>
+        <p>Those with anxiety disorders often avoid engaging with others because of fear of embarrassing themselves. This can put a strain on significant others and on children. Those with the anxiety disorder may want to be alone and may not want to engage in activities outside the house with family and friends.&nbsp; In addition to avoiding others, they often avoid stressful situations or public places. This avoidance can greatly inhibit daily activities and reduce the number and quality of interactions with others.<br><br><strong>Chronic Tension</strong></p>
+        <p>People with anxiety disorders often feel restless and tense. Family members often feel that tension and may not know how to respond. They may feel as if they are “walking on eggshells” around the individual with the anxiety disorder. Tension in the family can cause problems bonding and communicating.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
       `
     },
     {
       id : 8,
       title : '8.0 How to Manage Anxiety and Worry',
       content : `
-      
+        <p>There are many strategies and techniques that can be used to help cope with worry and anxiety. Some involve strategies to help reduce physical symptoms of anxiety directly through methods like muscle relaxation, imagery, or breathing exercises.  Other strategies are designed to teach worriers to change catastrophic thinking so that imagining worse case scenarios and predictions of disaster are either reduced or such thoughts aren’t taken seriously.  
+        Treatment strategies used by professional health care providers usually address both problems.</p>
+        <h3>Getting Professional Help for Anxiety and Worry</h3>
+        <div class="field-item even" property="content:encoded"><p><strong>Getting professional help</strong></p>
+        <p>Not all professionals such as physicians, psychologists, counselors, social workers, and psychiatrists are trained to treat anxiety disorders.&nbsp; If you seek professional help for managing anxiety, it is important to find out whether the professional you are talking to has specialized training in treating anxiety disorders.&nbsp; If not, try to find someone who specializes in treating anxiety.&nbsp; One online resource for identifying specialists in your area is the Anxiety and Depression Association of America.</p>
+        <p><strong>Psychotherapy</strong></p>
+        <p>Therapists use a variety of techniques to help their clients with anxiety.&nbsp; Techniques and strategies that work for one person might not work for another.&nbsp; So, it is important to be able to communicate with a therapist about what is or is not working.&nbsp; Some of the most common therapies for treating anxiety are Cognitive-Behavioral Therapy<strong> </strong>(CBT) and Exposure Therapy.&nbsp;<br><br>Cognitive-Behavioral Therapy is a treatment that focuses on how thoughts and feelings influence behavior.&nbsp; CBT teaches individuals to recognize when their thoughts are unrealistic and contribute to anxiety. The therapist works with the client to change irrational thoughts and beliefs to more realistic thoughts and to determine what behaviors are the result of the unrealistic thoughts.&nbsp; Positive changes in thoughts and behaviors are likely to result in reduced anxiety.<br><br>Exposure therapy is a treatment strategy in which a therapist works with a client to seek out, under controlled conditions, anxiety producing situations that the client finds frightening.&nbsp; By doing so, individuals learn that neither the feared situation nor the physical symptoms that can occur are dangerous and that other catastrophic thoughts are not accurate.&nbsp; With practice, the fear of situations or physical symptoms gradually evaporates over time.<br><br><strong>Medication</strong></p>
+        <p>There are a number of medications available that are sometimes used for treating anxiety. These medications change how brain chemicals called neurotransmitters are produced or used.&nbsp; How effective a medication will be for any one person depends on factors such as body type, drug sensitivity and side effects. Research indicates that medications for anxiety, especially for panic disorder, are more beneficial when they are combined with cognitive behavioral therapy (CBT).&nbsp; The doctor who prescribes medications needs to monitor mood and health closely to determine if the medications are having the desired benefit.</p>
+        </div>
+        <h3>Things You Can Do for Yourself to Manage Physical Effects of Anxiety</h3>
+        <div class="field-item even">
+          <p>Self-help exercises are powerful tools for calming the mind and body, but shouldn't be used to avoid anxious thoughts. Mind-body exercises work best when anxious thoughts have been addressed first.</p>
+        </div>
+        <h3>Things You Can Do for Yourself to Manage Worried Thinking</h3>
+        <div class="field-item even" property="content:encoded"><p><u><strong>How to Change Worried Thinking</strong></u></p>
+          <p>People who worry frequently tend to overestimate the risk of specific situations.&nbsp; They view a situation as being more risky than it actually is.&nbsp; Most worriers focus their time and attention on the worst case scenarios and then engage in catastrophic thinking, which only makes the problems and worries seem worse. If you spend most of your time and energy worrying, you tend to forget that you have the ability to cope with many stressful events.&nbsp; Learning to accurately assess risk can greatly reduce anxiety.</p>
+          <p>Here are some examples of some faulty risk assessments</p>
+          <table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 205px;">
+          <p><strong>&nbsp; Assessing Yourself</strong></p>
+          </td>
+          <td style="width: 433px;">
+          <ul><li>If I lose control, I won’t be able to breathe</li>
+          <li>I can’t live like this</li>
+          </ul></td>
+          </tr><tr><td style="width: 205px;">
+          <p><strong>&nbsp; Assessing Others</strong></p>
+          </td>
+          <td style="width: 433px;">
+          <ul><li>Everyone is looking at me funny</li>
+          <li>My co-workers think I’m stupid</li>
+          </ul></td>
+          </tr><tr><td style="width: 205px;">
+          <p><strong>&nbsp; Assessing the Environment</strong></p>
+          </td>
+          <td style="width: 433px;">
+          <ul><li>Meetings with my supervisor are always disastrous</li>
+          <li>Parties always make me nervous</li>
+          </ul></td>
+          </tr><tr><td style="width: 205px;">
+          <p><strong>&nbsp; Assessing the Future</strong></p>
+          </td>
+          <td style="width: 433px;">
+          <ul><li>I’ll never be good at this</li>
+          <li>I’ll never feel better than I do now</li>
+          </ul></td>
+          </tr></tbody></table><p><br><u><strong>Strategies for developing realistic thinking</strong></u></p>
+          <p><strong>Reduce or eliminate "what if" thinking:&nbsp; </strong>"What if?” isn’t really a question when used in this context; it’s a prediction that something bad could happen. For example, “What if the plane crashes?” or “What if I forget my speech in the middle of it?"&nbsp; If you begin to pay attention to how often you use this phrase, you’ll be able to start challenging the thought once you begin to practice distinguishing possible from probable.<br><br><strong>Learn to distinguish the difference between "possible" and "probably" events: </strong>How often do you say "It's possible that (this or that bad thing) will happen." Anxiety is created when we say “possible”, but we mean “probable” or “likely”.&nbsp; Because anything is possible it’s easy to create fear by thinking anything is probable.&nbsp; While it’s possible that you could be killed the next time you drive your car, it’s not probable or likely based on your own personal experience on the road.&nbsp; If you learn to accurately assess risk and challenge unrealistic thinking, you can reduce anxiety.<br><br><strong>Examine the facts; what actually happened: </strong>Pay<strong> </strong>attention to what actually happens in life, rather than what could happen, might happen, or almost happened, is a powerful way of confirming for yourself that the world is not as dangerous as it could be.&nbsp; While bad things can happen, most of the time they don’t, and it’s worth paying attention to that as you go through life.&nbsp;<br><br><strong>Stop fighting anxiety:</strong>&nbsp; This may seem wrong, but research has shown that trying to fight anxiety, both anxious thoughts and the physical effects, is not a permanent answer to ending anxiety. Whether you use distraction, avoidance or attempts at escape, or the more useful strategies such as breathing exercises and progressive relaxation, they rarely will stop anxious thoughts or symptoms permanently, they always seem return.&nbsp;<br><br>What we know about behavior is “What you resist, persists."&nbsp; Instead of trying to resist worried thinking, focus on the fact that the symptoms of anxiety and panic attacks may be uncomfortable but they can’t hurt you.&nbsp; Learning not to fear these symptoms allows them to have much less of an impact.<br><br><strong>Exposure exercises: </strong>Prove to yourself that your symptoms from anxiety and panic can't hurt!&nbsp; Of course that can be somewhat frightening if you really believe that the situation is dangerous.&nbsp; Exposure usually involves confronting your fear by entering a feared situation (e.g., a crowded restaurant, a tall building, a social gathering) and staying in the situation while practicing realistic thinking (“No one is attacking me”, “I’m not going to die”, “This isn’t hurting me”).&nbsp; Over time, catastrophic thinking is eliminated because nothing harmful (other than some uncomfortable anxiety symptoms) actually happens.&nbsp; With practice the anxiety symptoms go away.&nbsp; Exposure is best learned with the help of a trained therapist, but can be practiced on your own once you learn how. Sometimes it is hard to pinpoint your trigger.&nbsp; If you can’t identify it, don’t worry.&nbsp; Work on relaxing and calming yourself.</p>
+        </div>
       `
     },
     {
       id : 9,
       title : '9.0 Getting Support for Anxiety',
       content : `
-      
+        <div class="field-item even" property="content:encoded"><p>Finding people who can help you cope with anxious feelings can be very beneficial.&nbsp;</p>
+          <p><strong>Families and friends:</strong> Talking to family and friends about anxiety can be scary and anxiety-producing in and of itself, but family and friends can be a great source of support.&nbsp; They can be comforting because they know you and can help you cope with difficult times.&nbsp;</p>
+          <p><strong>Support groups:</strong> Support groups give you a chance to connect with other people who have similar experiences.&nbsp; Formal support groups for anxiety conditions and groups for other factors contributing to anxiety such as single parenting, grief, and nightmares can also be very helpful.&nbsp; If you're a veteran you can find more information on these groups&nbsp;at your local VA center. Check out this link to find a VA center in your area: <a href="http://www2.va.gov/directory/guide/home.asp?isFlash=1" target="_blank">http://www2.va.gov/directory/guide/home.asp?isFlash=1</a>.&nbsp;</p>
+          <p><strong>Military OneSource:</strong> The <a href="http://www.militaryonesource.mil/" target="_blank">Military OneSource</a> website is a good resource for service members to use for finding help.</p>
+          <p><strong>Learn more about anxiety and panic disorders: </strong>You can learn more about anxiety and panic disorders at the following websites.</p>
+          <ul><li style="margin-left: 18pt;">Anxiety and Depression Association of America (<a href="http://www.adaa.org/" target="_blank">http://www.adaa.org/</a>)</li>
+          <li style="margin-left: 18pt;">National Institute of Mental Health&nbsp; (<a href="http://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml" target="_blank">http://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml</a>)</li>
+          </ul>
+        </div>
       `
     },
     {
       id : 10,
       title : '10.0 References on Anxiety',
       content : `
-      
+        <div class="field-item even" property="content:encoded"><p>The following sources were used in preparing the materials presented in the Anxiety booklet:</p>
+          <ul><li style="margin-left: 18pt;">Kessler RC, Chiu WT, Demler O, Walters EE. (2005). Prevalence, severity, and comorbidity of twelve-month DSM-IV disorders in the National Comorbidity Survey Replication (NCS-R).</li>
+          <li style="margin-left: 18pt;">Archives of General Psychiatry, 62,617-627.</li>
+          <li style="margin-left: 18pt;">Furukawa TA, Watanabe N, Churchill R.&nbsp; (2006). Psychotherapy plus antidepressant for panic disorder with or without agoraphobia. British Journal of Psychiatry,188, 305-312</li>
+          <li style="margin-left: 18pt;">Andelow, B., Seidler-Brandler, U., Becker, A., Wedekind, D., &amp; Ruther, E. (2007). <a href="http://www.ncbi.nlm.nih.gov.lrc1.usuhs.edu/pubmed/17654408?ordinalpos=18&amp;itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum" target="_blank">Meta-analysis of randomized controlled comparisons of psychopharmacological and psychological treatments for anxiety disorders.</a> World Journal of Biological Psychiatry,8,175-187</li>
+          </ul>
+        </div>
       `
     }
   ]
@@ -1233,14 +1513,100 @@ export const depressionLib = {
       id : 1,
       title : '1. Depression: Introduction',
       content : `
-
+        <p>Depression affects your body, actions, thoughts, and mood. Left untreated, depression can last for days, months, or years. This chapter covers the signs, symptoms and causes of depression.</p>
+        <h3>What is Depression?</h3>
+        <p>Depression is more serious than just feeling sad. Depression affects all areas of life and ranges from mild mood swings to severe negative feelings that disrupt daily life. Depression can also lead to suicidal thoughts.
+        </p><p>Instead of hoping that your depressing thoughts and feelings will go away after time, you can learn and practice skills to cope with depression.</p>
+        <h3>Signs of Depression</h3>
+        <div class="field-item even" property="content:encoded"><p>People who are depressed may suffer from any of the following symptoms:</p>
+        <p><br>Physical concerns</p>
+        <ul><li>Decreased energy, fatigue or tiredness</li>
+        <li>Feeling slow or sluggish</li>
+        <li>Headaches, stomach problems, chronic pains that don’t improve with treatment</li>
+        <li>Weight loss or weight gain</li>
+        </ul><p>&nbsp;</p>
+        <p>Thinking concerns</p>
+        <ul><li>Thoughts of death or suicide</li>
+        <li>Hopelessness, excessive pessimism, negativity</li>
+        <li>Thoughts of guilt, worthlessness, helplessness</li>
+        <li>Negative thoughts about life, the world, or the future</li>
+        <li>Problems paying attention and focusing</li>
+        <li>Memory problems</li>
+        <li>Confusion and problems making decisions</li>
+        <li>Poor judgment</li>
+        <li>Racing thoughts</li>
+        <li>Harsh self-criticism (thinking “I’m a loser”)</li>
+        </ul><p>&nbsp;</p>
+        <p>Mood concerns</p>
+        <ul><li>Always feeling sad, anxious, or “empty”</li>
+        <li>Feeling restless, annoyed or nervous</li>
+        <li>Feeling anger, guilt, or regret</li>
+        </ul><p>&nbsp;</p>
+        <p>Behavior concerns</p>
+        <ul><li>Less interest or pleasure in hobbies and activities</li>
+        <li>Less interest or pleasure in sex</li>
+        <li>Trouble getting started with activities</li>
+        <li>Desire to be alone, away from everyone</li>
+        <li>Greater use of tobacco, alcohol, drugs, and/or caffeine</li>
+        <li>Taking dangerous risks</li>
+        <li>Laughing or crying at odd moments</li>
+        <li>Sleeping too much or too little</li>
+        <li>Eating more or less than usual</li>
+        </ul><p>&nbsp;</p>
+        <p>If you’re depressed, you may experience several symptoms at the same time. For example, you may feel tired, have trouble sleeping, and have no appetite. Symptoms of depression often last longer than two weeks. Severe symptoms can get in the way of social, work, and family duties.</p>
+        <p><br>If you think you’re depressed, it’s best to seek in-person help from a primary care physician or behavioral health professional.</p>
+        </div>
+        <h3>Things That Can Lead to Depression</h3>
+        <div class="field-item even" property="content:encoded"><p>Many things can lead to depression:</p>
+          <ul><li>Dwelling on negative thoughts about job loss, divorce, illness/injury or trauma</li>
+            <li>Feeling bad about oneself</li>
+            <li>Changes in brain chemistry</li>
+            <li>Using alcohol and/or illegal drugs to cope with emotional pain</li>
+            <li>Misuse of certain prescribed and over-the-counter drugs (discuss possible side-effects of medications with a doctor)</li>
+            <li>Family history and genetics</li>
+            <li>Medical conditions, such as diabetes or TBI</li>
+            <li>Anxiety disorders or other psychological concerns</li>
+          </ul><p>&nbsp;</p>
+          <p>Traumatic or stressful life events can also bring on<br>depression:</p>
+          <ul><li>Combat experience</li>
+            <li>Threat of death</li>
+            <li>Death of someone close</li>
+            <li>Physical, sexual, or emotional abuse</li>
+            <li>Prolonged stress at work or home</li>
+            <li>Relationship problems or divorce</li>
+            <li>Money problems</li>
+            <li>Job loss</li>
+          </ul>
+        </div>
+        <h3>Depression's Downward Spiral</h3>
+        <div class="field-item even" property="content:encoded">
+          <p>Negative thoughts often lead to depressed feelings. Depressed feelings make people less likely to engage in behavior that might make them feel better (see Figure 1). This can lead to more negative thoughts, which in turn can lead to even fewer positive activities.</p>
+          <p><br>Consider Bob. When Bob feels depressed, he is less likely to do things that will help him feel better. This is known as the downward spiral of depression. The less Bob does, the more depressed he gets.</p>
+          <p>&nbsp;</p>
+          <p>Depression may keep people from doing things they enjoyed in the past. If physical injuries make it more difficult to do those things, it’s important to find other pleasurable activities. Not enjoying things in life can make depression worse.</p>
+          <p>(illustration from Lewinsohn, 1992 <u>Control Your Depression)</u></p>
+        </div>
       `
     },
     {
       id : 2,
       title : '2. Depression and Behavior',
       content : `
-      
+        <p>Your behaviors can have effects on your moods. In this chapter you will learn about how negative or positive actions lead to negative or positive moods. 
+        You’ll also learn techniques for stopping the downward spiral of depression including the importance of moving toward goals in a practical way.</p>
+        <h3>Negative Action, Negative Mood</h3>
+        <div class="field-item even" property="content:encoded">
+          <p>Depression usually makes people feel down, tired, sad, and hopeless. A depressed person might:</p>
+          <ul><li>Avoid tasks that require energy or effort</li>
+            <li>Put off important tasks until they feel better</li>
+            <li>Avoid family or friends</li>
+            <li>Sleep a lot or have trouble sleeping</li>
+            <li>Misuse alcohol and other substances</li>
+            <li>Overeat, or not eat well</li>
+            <li>Watch TV or play video games alone</li>
+          </ul>
+        </div>
+        <h3>Negative Action, Negative Mood</h3>
       `
     },
     {
@@ -1342,7 +1708,7 @@ export const stigmaLib = {
       id : 1,
       title : '',
       content : `
-        http://afterdeployment.dcoe.mil/sites/default/files/library/stigma/index.html
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/stigma/index.html" target="_blank">Stigma</a>
       `
     }
   ]
@@ -1357,7 +1723,7 @@ export const spiritualityLib = {
       id : 1,
       title : '',
       content : `
-        http://afterdeployment.dcoe.mil/sites/default/files/library/spirituality/index.html
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/spirituality/index.html" target="_blank">Spirituality</a>
       `
     }
   ]
@@ -1366,13 +1732,13 @@ export const spiritualityLib = {
 export const suicidePreventionLib = {
   id : 13,
   title : 'Suicide Prevention',
-  content : '',
+  content : 'This program describes the critical nature of suicidal ideation, how to identify the warning signs of suicide, what to do if you or someone you love is displaying those warning signs, and where to get help for yourself or someone you\'re close to.',
   pages : [
     {
       id : 1,
-      title : '',
+      title : 'Suicide Prevention Booklet',
       content : `
-      
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/suicide/index.html target="_blank">Suicide Prevention</a>
       `
     }
   ]
@@ -1381,11 +1747,32 @@ export const suicidePreventionLib = {
 export const sleepLib = {
   id : 14,
   title : 'Sleep',
-  content : '',
+  content : 'Good sleep is vital to good health. In this booklet you will learn the basics about sleep, sleep rhythms, and the importance of getting enough sleep. Tips for developing good sleep hygiene and what to do if you are having problems getting good sleep are provided.',
   pages : [
     {
       id : 1,
-      title : '',
+      title : '1.0 Basic Facts about Sleep and Sleep Problems',
+      content : `
+
+      `
+    },
+    {
+      id : 2,
+      title : '2.0 Common Sleep Problems',
+      content : `
+      
+      `
+    },
+    {
+      id : 3,
+      title : '3.0 Thoughts and Sleep Habits',
+      content : `
+      
+      `
+    },
+    {
+      id : 4,
+      title : '4.0 Common Questions about Sleep Problems',
       content : `
       
       `
@@ -1396,13 +1783,13 @@ export const sleepLib = {
 export const resilianceLib = {
   id : 15,
   title : 'Resiliance',
-  content : '',
+  content : 'This program provides a number of tools to help you anticipate and manage the challenges associated with the deployment cycle.',
   pages : [
     {
       id : 1,
-      title : '',
+      title : 'Resiliance Booklet',
       content : `
-      
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/resilience/index.html target="_blank">Resiliance</a>
       `
     }
   ]
@@ -1411,10 +1798,102 @@ export const resilianceLib = {
 export const sexualTraumaLib = {
   id : 16,
   title : 'Sexual Trauma',
-  content : '',
+  content : 'This booklet provides information about sexual assault and sexual harassment to help with understanding the confusing and disturbing thoughts and emotions that often follow, and provides guidance and resources for getting help.',
   pages : [
     {
       id : 1,
+      title : 'If you or someone you know has recently experienced sexual violence',
+      content : `
+
+      `
+    },
+    {
+      id : 2,
+      title : '1.0	Sexual Violence Defined',
+      content : `
+      
+      `
+    },
+    {
+      id : 3,
+      title : '2.0 Sexual Violence in the Military: How Is It Different?',
+      content : `
+      
+      `
+    },
+    {
+      id : 4,
+      title : '3.0 Common Physical and Psychological Reactions After Sexual Violence',
+      content : `
+      
+      `
+    },
+    {
+      id : 5,
+      title : '4.0 Recovering from Sexual Violence',
+      content : `
+      
+      `
+    },
+    {
+      id : 6,
+      title : '5.0	What to Do if You Recently Experienced Sexual Violence',
+      content : `
+      
+      `
+    },
+    {
+      id : 7,
+      title : '6. Resources Providing Support to Survivors of Sexual Violence',
+      content : `
+      
+      `
+    },
+    {
+      id : 8,
+      title : 'Appendix A: Reporting and Legal Issues',
+      content : `
+      
+      `
+    },
+    {
+      id : 9,
+      title : 'APPENDIX B: Myths and Misconceptions About Sexual Violence',
+      content : `
+      
+      `
+    }
+  ]
+}
+
+export const ptsLib = {
+  id : 16,
+  title : 'Posttraumatic Stress',
+  content : 'Experiencing a severe trauma causes most people significant distress. A natural response to such experiences is to feel intense emotional responses, relive the event in thoughts or dreams, and avoid situations that may evoke memories of the event. These responses are often referred to as post-traumatic stress (PTS). For many people, these responses diminish with time, but for others they may continue causing problems with daily life and develop into a chronic psychological condition called posttraumatic stress disorder (PTSD). This booklet provides essential background information to help with understanding the causes and signs of PTS and PTSD, gives suggestions for steps to take to help manage these symptoms, and information and resources for how and when to get help from a health care professional.',
+  pages : [
+    {
+      id : 1,
+      title : '',
+      content : `
+
+      `
+    },
+    {
+      id : 2,
+      title : '',
+      content : `
+      
+      `
+    },
+    {
+      id : 3,
+      title : '',
+      content : `
+      
+      `
+    },
+    {
+      id : 4,
       title : '',
       content : `
       
@@ -1426,13 +1905,13 @@ export const sexualTraumaLib = {
 export const familyKidsLib = {
   id : 17,
   title : 'Family & Kids',
-  content : '',
+  content : 'This program is designed to help you help your kids.',
   pages : [
     {
       id : 1,
-      title : '',
+      title : 'Family & Kids Booklet',
       content : `
-      
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/families/index.html target="_blank">Family & Kids</a>
       `
     }
   ]
