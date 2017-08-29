@@ -5,7 +5,7 @@ const categories = [
   {id: 3, title: 'Library', path: 'main/library', featured: false, img: require('../images/2000px-Book_font_awesome.svg.png')},
   {id: 4, title: 'Resources', path: 'main/resources', featured: false, img: require('../images/Sharing-icon.svg.png')},
   {id: 5, title: 'App Hub',  path: 'https://apphub.tee2.org', featured: false, img: require('../images/Sharing-icon.svg.png')},
-  {id: 6, title: 'GitHub Repo',  path: 'https://dgilfoy.github.io/afterdeployment-all-topics/dist/', featured: false, img: require('../images/Sharing-icon.svg.png')}
+  {id: 6, title: 'GitHub Repo',  path: 'https://github.com/dgilfoy/afterdeployment-all-topics', featured: false, img: require('../images/Sharing-icon.svg.png')}
 ];
 const categoriesMap = categories.reduce((acc,cat) => {
   acc[cat.id] = cat

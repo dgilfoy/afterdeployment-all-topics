@@ -1,6 +1,6 @@
 # AfterDeployment Topics (all) - one codebase
 
-[Demo](https://github.com/dgilfoy/afterdeployment-all-topics)
+[Demo](https://dgilfoy.github.io/afterdeployment-all-topics/dist/#/)
 
 ## Primary modules used (check 'em out)
 * [Reactjs](https://facebook.github.io/react)
