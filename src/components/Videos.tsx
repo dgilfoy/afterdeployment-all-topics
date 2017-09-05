@@ -24,16 +24,15 @@ interface MyState {
 
 export default class Videos extends React.Component<MyProps, MyState> {
   componentWillMount(){
-      this.props.appBarTitle && this.props.appBarTitle('Life Stress Videos');
+      this.props.appBarTitle && this.props.appBarTitle('Topic Videos');
   }
   componentWillReceiveProps(nextProps) {
-      this.props.appBarTitle && this.props.appBarTitle('Life Stress Videos');
+      this.props.appBarTitle && this.props.appBarTitle('Topic Videos');
   }
 
   render(){
 
   var {videos, appBarTitle, cols, moduleID} = this.props;
-  console.log(videos);
     return (
     <div>
       <GridList
