@@ -108,7 +108,14 @@ export const modules = [
     `
   },
   {
-    id: 16, title: 'Sexual Trauma', img: 'intro-sexual.png', assessments: [28,4,25,20,16], slug : 'sexualTrauma',
+    id: 16, title: 'Posttraumatic Stress', img: 'intro-pts.png', assessments: [8,4,10,5,7,16], slug : 'pts',
+    content: `<p>
+    Post-traumatic stress is a common response to experiencing traumatic events. This program has been designed to provide a wide range of support for coping with post-traumatic stress. Take an assessment to get feedback on how you are doing or jump into the workshops to learn about how post-traumatic symptoms are triggered and what to do when this happens. Check out the videos of others who are dealing with post-traumatic stress, and explore the e-library for in-depth information.
+    </p>
+    `
+  },
+  /* {
+    id: 17, title: 'Sexual Trauma', img: 'intro-sexual.png', assessments: [28,4,25,20,16], slug : 'sexualTrauma',
     content: `<p>This topic area supports service members who have experienced a sexual trauma. Sexual trauma (harassment, assault, rape and 
       associated violence) can trigger a range of emotions and physical symptoms. In this section, you will find two types of resources. 
       The self assessment will provide you with immediate feedback about the amount of stress you’re having. 
@@ -118,12 +125,5 @@ export const modules = [
     Military Sexual Assault.</p>
     <p>Remember, you are not alone: sexual assaults occur in the military as well as in civilian life.</p>
     `
-  },
-  {
-    id: 17, title: 'Posttraumatic Stress', img: 'intro-pts.png', assessments: [8,4,10,5,7,16], slug : 'pts',
-    content: `<p>
-    Post-traumatic stress is a common response to experiencing traumatic events. This program has been designed to provide a wide range of support for coping with post-traumatic stress. Take an assessment to get feedback on how you are doing or jump into the workshops to learn about how post-traumatic symptoms are triggered and what to do when this happens. Check out the videos of others who are dealing with post-traumatic stress, and explore the e-library for in-depth information.
-    </p>
-    `
-  }
+  } */
 ];

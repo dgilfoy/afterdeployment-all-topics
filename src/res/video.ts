@@ -7,7 +7,7 @@ export default class VideoData{
   }
   process(videosRaw){
     let videosRaw2 = videosRaw.map(item => { //run images through webpack
-      item.img = require('../images/videos/' + item.img);
+      //item.img = require('../images/videos/' + item.img);
       return item;
     });
     return videosRaw2

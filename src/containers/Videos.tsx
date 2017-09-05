@@ -23,9 +23,6 @@ const stateToProps = (state, ownProps) => {
     modVidsStr = module[0].slug;
   return {
     videos: videos[modVidsStr + 'Vids'].map(item => {
-      console.log(item.img);
-      item.img = require('../images/videos/' + item.img); //not sure this'll work in webpack, which is probably why jack had the video.ts file in the data dir.
-      console.log(item.img);
       return item;
     }), // add default logic here eventually, so there's a fallback if an object with this name does not exist
     cols: getCols(state.device),

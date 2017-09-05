@@ -33,6 +33,7 @@ export default class Videos extends React.Component<MyProps, MyState> {
   render(){
 
   var {videos, appBarTitle, cols, moduleID} = this.props;
+  console.log(videos);
     return (
     <div>
       <GridList
