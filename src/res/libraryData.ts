@@ -2338,7 +2338,7 @@ export const suicidePreventionLib = {
       id : 1,
       title : 'Suicide Prevention Booklet',
       content : `
-        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/suicide/index.html target="_blank">Suicide Prevention</a>
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/suicide/index.html" target="_blank">Suicide Prevention</a>
       `
     }
   ]
@@ -2701,7 +2701,7 @@ export const resilianceLib = {
       id : 1,
       title : 'Resiliance Booklet',
       content : `
-        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/resilience/index.html target="_blank">Resiliance</a>
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/resilience/index.html" target="_blank">Resiliance</a>
       `
     }
   ]
@@ -3144,7 +3144,37 @@ export const familyKidsLib = {
       id : 1,
       title : 'Family & Kids Booklet',
       content : `
-        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/families/index.html target="_blank">Family & Kids</a>
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/families/index.html" target="_blank">Family & Kids</a>
+      `
+    }
+  ]
+}
+
+export const financesLib = {
+  id : 17,
+  title : 'Financial health',
+  content : 'This program is designed to help you with your finances.',
+  pages : [
+    {
+      id : 1,
+      title : 'Financial Health Booklet',
+      content : `
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/finance/index.html" target="_blank">Financial Health</a>
+      `
+    }
+  ]
+}
+
+export const mtbiLib = {
+  id : 17,
+  title : 'mild Traumatic Brain Injury',
+  content : 'This program is designed to help you with your mild traumatic brain injury.',
+  pages : [
+    {
+      id : 1,
+      title : 'mild Traumatic Brain Injury Booklet',
+      content : `
+        <a href="http://afterdeployment.dcoe.mil/sites/default/files/library/suicide/index.html#/1/" target="_blank">mild Traumatic Brain Injury</a>
       `
     }
   ]

@@ -80,7 +80,7 @@ export const modules = [
     `
   },
   {
-    id: 12, title: 'Families and Friendships', img: 'intro-friendship.png', assessments: [12,11,15,26,14], slug : 'suicidePrevention',
+    id: 12, title: 'Families and Friendships', img: 'intro-friendship.png', assessments: [12,11,15,26,14], slug : 'familyFriends',
     content: `<p>
     The stress of deployment often uncovers problems in relationships that existed before, but had gone un-noticed. For example, after a deployment minor irritations that might have been overlooked can blow up into major conflict. If you are having problems in your relationships, you will find this material will help. Take an assessment to get feedback on your relationships or jump into the workshops to learn about various relationship skills. Check out the videos of others who are dealing with relationship problems and explore the e-library for in-depth information.
     </p>
@@ -114,8 +114,28 @@ export const modules = [
     </p>
     `
   },
+  {
+    id: 17, title: 'Financial Health', img: 'intro-finance.png', assessments: [], slug : 'finances',
+    content: `<p>
+    Stub
+    </p>
+    `
+  },
+  {
+    id: 17, title: 'Suicide Prevention', img: 'intro-suicide.png', assessments: [], slug : 'suicidePrevention',
+    content: `<p>
+    Stub
+    </p>
+    `
+  },
+  {
+    id: 19, title: 'mild Traumatic Brain Injury', img: 'intro-mtbi.png', assessments: [9,4,20,17,8], slug : 'mtbi',
+    content: `<p>
+    One of the most common deployment injuries is a mild Traumatic Brain Injury (TBI). A mild TBI is an injury to the head that can affect brain functioning. However, traumatic brain injury involves more than getting hit on the head; it also means that the brain temporarily stops working in its usual way. A service member with a traumatic brain injury might become dazed, or ''see stars,'' or have trouble remembering what happened before or after the injury, or even become unconscious for a few seconds to half an hour.</p>
+    `
+  }
   /* {
-    id: 17, title: 'Sexual Trauma', img: 'intro-sexual.png', assessments: [28,4,25,20,16], slug : 'sexualTrauma',
+    id: 20, title: 'Sexual Trauma', img: 'intro-sexual.png', assessments: [28,4,25,20,16], slug : 'sexualTrauma',
     content: `<p>This topic area supports service members who have experienced a sexual trauma. Sexual trauma (harassment, assault, rape and 
       associated violence) can trigger a range of emotions and physical symptoms. In this section, you will find two types of resources. 
       The self assessment will provide you with immediate feedback about the amount of stress you’re having. 

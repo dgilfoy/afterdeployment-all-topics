@@ -259,18 +259,76 @@ export const lifeStressVids = [
 export default lifeStressVids;
 
 export const healthWellVids = [
-{
-    "id":1,
-    "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125539335001_Life-Stress---01-Critical-incident-stress.mp4?pubId=1041122098001&videoId=1125533703001",
-    "title":"01-Critical_incident_stress",
-    "author":"T2","url":"","featured":false},
   {
-    "id":2,
-    "img":"1041122098001_1125563573001_vs-1125555002001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
-    "title":"02-Stress_reactions_after_deployment",
-    "author":"T2","url":"","featured":false}  
+    "title": "Health & Wellness - 01-Maintaining_a_balance",
+    "id": 1125620108001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644079001_vs-1125640728001.jpg?pubId=1041122098001&videoId=1125620108001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125646946001_Health---Wellness---01-Maintaining-a-balance.mp4?pubId=1041122098001&videoId=1125620108001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 02-The_importance_of_exercise",
+    "id": 1125629284001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644068001_vs-1125642696001.jpg?pubId=1041122098001&videoId=1125629284001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644075001_Health---Wellness---02-The-importance-of-exercise.mp4?pubId=1041122098001&videoId=1125629284001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 03-Lessons_learned_regarding_life",
+    "id": 1125620107001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644065001_vs-1125640722001.jpg?pubId=1041122098001&videoId=1125620107001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644026001_Health---Wellness---03-Lessons-learned-regarding-life.mp4?pubId=1041122098001&videoId=1125620107001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 04-Gramig_B10",
+    "id": 1125637048001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125646934001_vs-1125637498001.jpg?pubId=1041122098001&videoId=1125637048001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125646933001_Health---Wellness---04-Gramig-B10.mp4?pubId=1041122098001&videoId=1125637048001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 05-The_challenges_of_adjusting",
+    "id": 1125637043001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644037001_vs-1125637491001.jpg?pubId=1041122098001&videoId=1125637043001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644063001_Health---Wellness---05-The-challenges-of-adjusting.mp4?pubId=1041122098001&videoId=1125637043001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 06-The_challenges_of_balancing",
+    "id": 1125620105001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644002001_vs-1125640710001.jpg?pubId=1041122098001&videoId=1125620105001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644004001_Health---Wellness---06-The-challenges-of-balancing.mp4?pubId=1041122098001&videoId=1125620105001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 07-Personal_growth",
+    "id": 1125620104001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125643999001_vs-1125640704001.jpg?pubId=1041122098001&videoId=1125620104001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644016001_Health---Wellness---07-Personal-growth.mp4?pubId=1041122098001&videoId=1125620104001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 08-Setting_priorities_of_faith",
+    "id": 1125637039001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644467001_vs-1125637483001.jpg?pubId=1041122098001&videoId=1125637039001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644463001_Health---Wellness---08-Setting-priorities-of-faith.mp4?pubId=1041122098001&videoId=1125637039001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 09-Deployment_helps_make_a_career",
+    "id": 1125637038001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644450001_vs-1125637477001.jpg?pubId=1041122098001&videoId=1125637038001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644453001_Health---Wellness---09-Deployment-helps-make-a-career.mp4?pubId=1041122098001&videoId=1125637038001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Health & Wellness - 10-Personal_growth_resulting_from_service",
+    "id": 1125637035001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125644435001_vs-1125637462001.jpg?pubId=1041122098001&videoId=1125637035001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125644413001_Health---Wellness---10-Personal-growth-resulting-from-service.mp4?pubId=1041122098001&videoId=1125637035001",
+    "author":"T2","url":"","featured":false
+  }  
 ];
 
 export const ptsVids = [
@@ -313,17 +371,82 @@ export const ptsVids = [
 
 export const workAdjustmentVids = [
   {
-    "id":1,
-    "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125539335001_Life-Stress---01-Critical-incident-stress.mp4?pubId=1041122098001&videoId=1125533703001",
-    "title":"01-Critical_incident_stress",
-    "author":"T2","url":"","featured":false},
+    "title": "Work Adjustment - 01-Work_challenges",
+    "id": 1125587301001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125619775001_vs-1125619261001.jpg?pubId=1041122098001&videoId=1125587301001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125619784001_Work-Ajdustment---01-Work-challenges.mp4?pubId=1041122098001&videoId=1125587301001",
+    "author":"T2","url":"","featured":false
+  },
   {
-    "id":2,
-    "img":"1041122098001_1125563573001_vs-1125555002001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
-    "title":"02-Stress_reactions_after_deployment",
-    "author":"T2","url":"","featured":false}  
+    "title": "Work Adjustment - 02-Post-deployment_challenges",
+    "id": 1125587300001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125619772001_vs-1125619255001.jpg?pubId=1041122098001&videoId=1125587300001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125619781001_Work-Ajdustment---02-Post-deployment-challenges.mp4?pubId=1041122098001&videoId=1125587300001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 03-Adjusting_to_slower_pace",
+    "id": 1125586113001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125619768001_vs-1125618691001.jpg?pubId=1041122098001&videoId=1125586113001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125619786001_Work-Ajdustment---03-Adjusting-to-slower-pace.mp4?pubId=1041122098001&videoId=1125586113001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 04-Challenging_work_during_deployment",
+    "id": 1125606072001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125619755001_vs-1125620724001.jpg?pubId=1041122098001&videoId=1125606072001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125622165001_Work-Ajdustment---04-Challenging-work-during-deployment.mp4?pubId=1041122098001&videoId=1125606072001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 05-Challenges_of_deployment",
+    "id": 1125587288001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125621097001_vs-1125613227001.jpg?pubId=1041122098001&videoId=1125587288001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125621094001_Work-Ajdustment---05-Challenges-of-deployment.mp4?pubId=1041122098001&videoId=1125587288001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 06-Challenging_work_during_deployment",
+    "id": 1125587286001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125621118001_vs-1125613215001.jpg?pubId=1041122098001&videoId=1125587286001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125621285001_Work-Ajdustment---06-Challenging-work-during-deployment.mp4?pubId=1041122098001&videoId=1125587286001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 07-The_benefits_of_being_in_the_military",
+    "id": 1125586096001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125617976001_vs-1125613043001.jpg?pubId=1041122098001&videoId=1125586096001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125617985001_Work-Ajdustment---07-The-benefits-of-being-in-the-military.mp4?pubId=1041122098001&videoId=1125586096001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 08 - Readjusting to civilian life",
+    "id": 1125587285001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125618030001_vs-1125613209001.jpg?pubId=1041122098001&videoId=1125587285001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125618029001_Work-Ajdustment---08---Readjusting-to-civilian-life.mp4?pubId=1041122098001&videoId=1125587285001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 09 - Differences between military service and civilian work life",
+    "id": 1125606056001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125617997001_vs-1125614582001.jpg?pubId=1041122098001&videoId=1125606056001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125617996001_Work-Ajdustment---09---Differences-between-military-service-and-civilian-work-life.mp4?pubId=1041122098001&videoId=1125606056001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 10 - Adjusting to school after being in the military",
+    "id": 1125587284001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125617952001_vs-1125613203001.jpg?pubId=1041122098001&videoId=1125587284001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125617951001_Work-Ajdustment---10---Adjusting-to-school-after-being-in-the-military.mp4?pubId=1041122098001&videoId=1125587284001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Work Adjustment - 11 - Challenges with finding work similar to that performed in the military",
+    "id": 1125587283001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125621070001_vs-1125613197001.jpg?pubId=1041122098001&videoId=1125587283001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125621069001_Work-Ajdustment---11---Challenges-with-finding-work-similar-to-that-performed-in-the-military.mp4?pubId=1041122098001&videoId=1125587283001",
+    "author":"T2","url":"","featured":false
+  }  
 ];
 
 export const anxietyVids = [
@@ -661,32 +784,171 @@ export const stigmaVids = [
 
 export const spiritualityVids = [
   {
-    "id":1,
-    "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125539335001_Life-Stress---01-Critical-incident-stress.mp4?pubId=1041122098001&videoId=1125533703001",
-    "title":"01-Critical_incident_stress",
-    "author":"T2","url":"","featured":false},
+    "title": "Spirituality - 01-Spirituality_Compilation",
+    "id": 1125533797001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125585497001_vs-1125582897001.jpg?pubId=1041122098001&videoId=1125533797001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125585499001_Spirituality---01-Spirituality-Compilation.mp4?pubId=1041122098001&videoId=1125533797001",
+    "author":"T2","url":"","featured":false
+  },
   {
-    "id":2,
-    "img":"1041122098001_1125563573001_vs-1125555002001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
-    "title":"02-Stress_reactions_after_deployment",
-    "author":"T2","url":"","featured":false}  
+    "title": "Spirituality - 02-Faith_during_deployment",
+    "id": 1125533770001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125573338001_vs-1125565775001.jpg?pubId=1041122098001&videoId=1125533770001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125573349001_Spirituality---02-Faith-during-deployment.mp4?pubId=1041122098001&videoId=1125533770001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 03-Religion_as_a_source_of_strength",
+    "id": 1125552152001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125591901001_vs-1125581056001.jpg?pubId=1041122098001&videoId=1125552152001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125591890001_Spirituality---03-Religion-as-a-source-of-strength.mp4?pubId=1041122098001&videoId=1125552152001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 04-The_importance_of_faith",
+    "id": 1125552108001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125567586001_vs-1125563330001.jpg?pubId=1041122098001&videoId=1125552108001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125567603001_Spirituality---04-The-importance-of-faith.mp4?pubId=1041122098001&videoId=1125552108001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 05-Spirituality_and_its_importance",
+    "id": 1125586021001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125590452001_vs-1125582938001.jpg?pubId=1041122098001&videoId=1125586021001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125590390001_Spirituality---05-Spirituality-and-its-importance.mp4?pubId=1041122098001&videoId=1125586021001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 06-Taking_time_to_think",
+    "id": 1125532842001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125563582001_vs-1125560521001.jpg?pubId=1041122098001&videoId=1125532842001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563584001_Spirituality---06-Taking-time-to-think.mp4?pubId=1041122098001&videoId=1125532842001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 07-Religion_provides_comfort",
+    "id": 1125586020001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125588596001_vs-1125582932001.jpg?pubId=1041122098001&videoId=1125586020001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125586530001_Spirituality---07-Religion-provides-comfort.mp4?pubId=1041122098001&videoId=1125586020001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 08-Keeping_busy_and_faith",
+    "id": 1125532834001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125563032001_vs-1125560477001.jpg?pubId=1041122098001&videoId=1125532834001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563053001_Spirituality---08-Keeping-busy-and-faith.mp4?pubId=1041122098001&videoId=1125532834001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 09-Nightly_devotional_readings",
+    "id": 1125532885001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125588599001_vs-1125581871001.jpg?pubId=1041122098001&videoId=1125532885001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125588581001_Spirituality---09-Nightly-devotional-readings.mp4?pubId=1041122098001&videoId=1125532885001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 10 - Spirituality is important during deployment",
+    "id": 1125532870001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125581957001_vs-1125581791001.jpg?pubId=1041122098001&videoId=1125532870001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125581956001_Spirituality---10---Spirituality-is-important-during-deployment.mp4?pubId=1041122098001&videoId=1125532870001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 11 - Seeking spirituality during deployment",
+    "id": 1125532867001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125581940001_vs-1125570764001.jpg?pubId=1041122098001&videoId=1125532867001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125581939001_Spirituality---11---Seeking-spirituality-during-deployment.mp4?pubId=1041122098001&videoId=1125532867001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 12 - The importance of religious services during deployment",
+    "id": 1125552131001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125581894001_vs-1125575882001.jpg?pubId=1041122098001&videoId=1125552131001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125581893001_Spirituality---12---The-importance-of-religious-services-during-deployment.mp4?pubId=1041122098001&videoId=1125552131001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 13 - The value of spirituality at home during deployment",
+    "id": 1125552129001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125577116001_vs-1125575870001.jpg?pubId=1041122098001&videoId=1125552129001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125577115001_Spirituality---13---The-value-of-spirituality-at-home-during-deployment.mp4?pubId=1041122098001&videoId=1125552129001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 14 - Managing a difficult deployment with spirituality",
+    "id": 1125533785001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125577080001_vs-1125571513001.jpg?pubId=1041122098001&videoId=1125533785001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125577079001_Spirituality---14---Managing-a-difficult-deployment-with-spirituality.mp4?pubId=1041122098001&videoId=1125533785001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 15-Faith_and_the_faith_community",
+    "id": 1125533747001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125561802001_vs-1125554962001.jpg?pubId=1041122098001&videoId=1125533747001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125559146001_Spirituality---15-Faith-and-the-faith-community.mp4?pubId=1041122098001&videoId=1125533747001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 16 - How spirituality can help make sense of guilt and injury",
+    "id": 1125533784001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125576513001_vs-1125571507001.jpg?pubId=1041122098001&videoId=1125533784001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125576512001_Spirituality---16---How-spirituality-can-help-make-sense-of-guilt-and-injury.mp4?pubId=1041122098001&videoId=1125533784001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 17 - Being forgiven by God",
+    "id": 1125532862001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125576510001_vs-1125570737001.jpg?pubId=1041122098001&videoId=1125532862001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125576509001_Spirituality---17---Being-forgiven-by-God.mp4?pubId=1041122098001&videoId=1125532862001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 18 - How faith can help transition",
+    "id": 1125532859001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125576213001_vs-1125570721001.jpg?pubId=1041122098001&videoId=1125532859001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125576212001_Spirituality---18---How-faith-can-help-transition.mp4?pubId=1041122098001&videoId=1125532859001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Spirituality - 19 - Spirituality and combat",
+    "id": 1125552120001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125571255001_vs-1125563390001.jpg?pubId=1041122098001&videoId=1125552120001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125571254001_Spirituality---19---Spirituality-and-combat.mp4?pubId=1041122098001&videoId=1125552120001",
+    "author":"T2","url":"","featured":false
+  } 
 ];
 
 export const suicidePreventionVids = [
   {
-    "id":1,
-    "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125539335001_Life-Stress---01-Critical-incident-stress.mp4?pubId=1041122098001&videoId=1125533703001",
-    "title":"01-Critical_incident_stress",
-    "author":"T2","url":"","featured":false},
+    "title": "Taking A Toll",
+    "id": 2029277812001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-taking-toll.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029363701001_Suicide-1.mp4"
+  },
   {
-    "id":2,
-    "img":"1041122098001_1125563573001_vs-1125555002001.jpg",
-    "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
-    "title":"02-Stress_reactions_after_deployment",
-    "author":"T2","url":"","featured":false}  
+    "title": "Who's At Risk?",
+    "id": 2029355129001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-whos-risk.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029355998001_Suicide-2.mp4"
+  },
+  {
+    "title": "Warning Signs",
+    "id": 2029340994001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-warning-signs.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029355946001_Suicide-3.mp4"
+  },
+  {
+    "title": "What You Should Do",
+    "id": 2029340989001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-what-you-should-do.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029349194001_Suicide-4.mp4"
+  },
+  {
+    "title": "Reasons To Live",
+    "id": 2029277797001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-reasons-live.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029343662001_Suicide-5.mp4"
+  }
 ];
 
 export const sleepVids = [
@@ -996,7 +1258,7 @@ export const resilianceVids = [
   }  
 ];
 
-export const sexualTraumaVids = [
+/* export const sexualTraumaVids = [
   {
     "id":1,
     "img":"1041122098001_1125537389001_vs-1125522077001.jpg",
@@ -1009,9 +1271,430 @@ export const sexualTraumaVids = [
     "src":"https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125563572001_Life-Stress---02-Stress-reactions-after-deployment.mp4?pubId=1041122098001&videoId=1125533755001",
     "title":"02-Stress_reactions_after_deployment",
     "author":"T2","url":"","featured":false}  
-];
-
+]; */
 export const familyKidsVids = [
+  {
+    "title": "Families with Kids - 01-Relationship_loss_during_deployment",
+    "id": 1124176093001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220469001_vs-1124219789001.jpg?pubId=1041122098001&videoId=1124176093001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220465001_Families-with-Kids---01-Relationship-loss-during-deployment.mp4?pubId=1041122098001&videoId=1124176093001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 02-Dealing_with_separation_from_children",
+    "id": 1124172661001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220473001_vs-1124214965001.jpg?pubId=1041122098001&videoId=1124172661001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220428001_Families-with-Kids---02-Dealing-with-separation-from-children.mp4?pubId=1041122098001&videoId=1124172661001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 03-Strategies_for_coping",
+    "id": 1124210002001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220441001_vs-1124210142001.jpg?pubId=1041122098001&videoId=1124210002001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220443001_Families-with-Kids---03-Strategies-for-coping.mp4?pubId=1041122098001&videoId=1124210002001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 04-Ways_to_stay_connected",
+    "id": 1124176092001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220424001_vs-1124200694001.jpg?pubId=1041122098001&videoId=1124176092001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220423001_Families-with-Kids---04-Ways-to-stay-connected.mp4?pubId=1041122098001&videoId=1124176092001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 05-Communication_prior_to_deployment",
+    "id": 1124210001001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124215118001_vs-1124210136001.jpg?pubId=1041122098001&videoId=1124210001001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124215123001_Families-with-Kids---05-Communication-prior-to-deployment.mp4?pubId=1041122098001&videoId=1124210001001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 06-Preparation_for_deployment",
+    "id": 1124172659001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124215112001_vs-1124214953001.jpg?pubId=1041122098001&videoId=1124172659001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124215114001_Families-with-Kids---06-Preparation-for-deployment.mp4?pubId=1041122098001&videoId=1124172659001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 07-Saying_goodbye",
+    "id": 1124210000001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124215078001_vs-1124210130001.jpg?pubId=1041122098001&videoId=1124210000001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124215080001_Families-with-Kids---07-Saying-goodbye.mp4?pubId=1041122098001&videoId=1124210000001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 08-Family_Readiness_Group_Support",
+    "id": 1124172658001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124215094001_vs-1124214947001.jpg?pubId=1041122098001&videoId=1124172658001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124215076001_Families-with-Kids---08-Family-Readiness-Group-Support.mp4?pubId=1041122098001&videoId=1124172658001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 09-Asking_questions_and_seeking_information",
+    "id": 1124209999001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124215068001_vs-1124210124001.jpg?pubId=1041122098001&videoId=1124209999001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124215071001_Families-with-Kids---09-Asking-questions-and-seeking-information.mp4?pubId=1041122098001&videoId=1124209999001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 10-Coping with isolation",
+    "id": 1125255213001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125367675001_vs-1125355396001.jpg?pubId=1041122098001&videoId=1125255213001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125367674001_Families-with-Kids---10-Coping-with-isolation.mp4?pubId=1041122098001&videoId=1125255213001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 11-Coping_with_frienships",
+    "id": 1124172667001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124221264001_vs-1124215001001.jpg?pubId=1041122098001&videoId=1124172667001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124221256001_Families-with-Kids---11-Coping-with-frienships.mp4?pubId=1041122098001&videoId=1124172667001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 12-Staying_connected_to_children",
+    "id": 1124574754001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124929293001_vs-1124872924001.jpg?pubId=1041122098001&videoId=1124574754001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124929292001_Families-with-Kids---12-Staying-connected-to-children.mp4?pubId=1041122098001&videoId=1124574754001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 13-Talking_about_tough_subjects",
+    "id": 1124574750001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124967831001_vs-1124872901001.jpg?pubId=1041122098001&videoId=1124574750001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124967833001_Families-with-Kids---13-Talking-about-tough-subjects.mp4?pubId=1041122098001&videoId=1124574750001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 14-Communicating_with_home",
+    "id": 1124172665001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220459001_vs-1124214989001.jpg?pubId=1041122098001&videoId=1124172665001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220461001_Families-with-Kids---14-Communicating-with-home.mp4?pubId=1041122098001&videoId=1124172665001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 15-Challenges_of_parenting",
+    "id": 1124210005001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220481001_vs-1124210163001.jpg?pubId=1041122098001&videoId=1124210005001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220467001_Families-with-Kids---15-Challenges-of-parenting.mp4?pubId=1041122098001&videoId=1124210005001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 16-Adjustment_family_life",
+    "id": 1124172664001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220435001_vs-1124214983001.jpg?pubId=1041122098001&videoId=1124172664001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220479001_Families-with-Kids---16-Adjustment-family-life.mp4?pubId=1041122098001&videoId=1124172664001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 17-Receiving_letters_packages",
+    "id": 1124172663001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220449001_vs-1124214977001.jpg?pubId=1041122098001&videoId=1124172663001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220455001_Families-with-Kids---17-Receiving-letters-packages.mp4?pubId=1041122098001&videoId=1124172663001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 18-Preparing_kids_for_deployment",
+    "id": 1124210003001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220476001_vs-1124210148001.jpg?pubId=1041122098001&videoId=1124210003001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220454001_Families-with-Kids---18-Preparing-kids-for-deployment.mp4?pubId=1041122098001&videoId=1124210003001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 19-Balancing_parenting_styles",
+    "id": 1124176094001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220415001_vs-1124219795001.jpg?pubId=1041122098001&videoId=1124176094001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220417001_Families-with-Kids---19-Balancing-parenting-styles.mp4?pubId=1041122098001&videoId=1124176094001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 20-Coordinated_parenting",
+    "id": 1124172662001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124220430001_vs-1124214971001.jpg?pubId=1041122098001&videoId=1124172662001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124220432001_Families-with-Kids---20-Coordinated-parenting.mp4?pubId=1041122098001&videoId=1124172662001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 21-Feeling_connect_thru_news",
+    "id": 1124172672001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240545001_vs-1124215031001.jpg?pubId=1041122098001&videoId=1124172672001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124240189001_Families-with-Kids---21-Feeling-connect-thru-news.mp4?pubId=1041122098001&videoId=1124172672001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 22-Limiting_communication",
+    "id": 1124210015001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240565001_vs-1124226170001.jpg?pubId=1041122098001&videoId=1124210015001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124240542001_Families-with-Kids---22-Limiting-communication.mp4?pubId=1041122098001&videoId=1124210015001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 23-Keeping_connected_to_parenting_issues",
+    "id": 1124176106001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240107001_vs-1124219861001.jpg?pubId=1041122098001&videoId=1124176106001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124240188001_Families-with-Kids---23-Keeping-connected-to-parenting-issues.mp4?pubId=1041122098001&videoId=1124176106001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 24-Celebrating_holidays_together",
+    "id": 1124873673001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125012617001_vs-1124929036001.jpg?pubId=1041122098001&videoId=1124873673001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125033279001_Families-with-Kids---24-Celebrating-holidays-together.mp4?pubId=1041122098001&videoId=1124873673001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 25-Parenting_during_deployment",
+    "id": 1124210013001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124229728001_vs-1124226163001.jpg?pubId=1041122098001&videoId=1124210013001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124229714001_Families-with-Kids---25-Parenting-during-deployment.mp4?pubId=1041122098001&videoId=1124210013001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 26-Roles_change_in_family",
+    "id": 1124210012001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124229704001_vs-1124226157001.jpg?pubId=1041122098001&videoId=1124210012001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124229707001_Families-with-Kids---26-Roles-change-in-family.mp4?pubId=1041122098001&videoId=1124210012001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 27-Spoiling_children",
+    "id": 1124176102001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124226520001_vs-1124219836001.jpg?pubId=1041122098001&videoId=1124176102001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124226514001_Families-with-Kids---27-Spoiling-children.mp4?pubId=1041122098001&videoId=1124176102001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 28-Strategies_for_including_deployed_spouses",
+    "id": 1124210011001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124226466001_vs-1124210193001.jpg?pubId=1041122098001&videoId=1124210011001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124226486001_Families-with-Kids---28-Strategies-for-including-deployed-spouses.mp4?pubId=1041122098001&videoId=1124210011001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 29-Childrens_difficulties_deployment",
+    "id": 1124176101001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124226483001_vs-1124219830001.jpg?pubId=1041122098001&videoId=1124176101001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124226481001_Families-with-Kids---29-Childrens-difficulties-deployment.mp4?pubId=1041122098001&videoId=1124176101001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 30-How_family_can_be_supportive",
+    "id": 1124172668001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124226477001_vs-1124215007001.jpg?pubId=1041122098001&videoId=1124172668001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124221281001_Families-with-Kids---30-How-family-can-be-supportive.mp4?pubId=1041122098001&videoId=1124172668001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 31-Finding_your_voice",
+    "id": 1124574772001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125341642001_vs-1125068462001.jpg?pubId=1041122098001&videoId=1124574772001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125341157001_Families-with-Kids---31-Finding-your-voice.mp4?pubId=1041122098001&videoId=1124574772001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 32-Finding_strength_and_learning",
+    "id": 1124588696001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125133308001_vs-1125012227001.jpg?pubId=1041122098001&videoId=1124588696001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125157953001_Families-with-Kids---32-Finding-strength-and-learning.mp4?pubId=1041122098001&videoId=1124588696001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 33-Experiencing_personal_growth",
+    "id": 1124588695001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125133293001_vs-1125012221001.jpg?pubId=1041122098001&videoId=1124588695001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125133305001_Families-with-Kids---33-Experiencing-personal-growth.mp4?pubId=1041122098001&videoId=1124588695001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 34-Being_prepared_for_worst_case_scenarios",
+    "id": 1124588694001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125133322001_vs-1125012215001.jpg?pubId=1041122098001&videoId=1124588694001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125133321001_Families-with-Kids---34-Being-prepared-for-worst-case-scenarios.mp4?pubId=1041122098001&videoId=1124588694001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 35-Parental_worries",
+    "id": 1124588687001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125081340001_vs-1125012173001.jpg?pubId=1041122098001&videoId=1124588687001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125081404001_Families-with-Kids---35-Parental-worries.mp4?pubId=1041122098001&videoId=1124588687001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 36-How_father_son_relationship",
+    "id": 1124172675001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240169001_vs-1124228179001.jpg?pubId=1041122098001&videoId=1124172675001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124242571001_Families-with-Kids---36-How-father-son-relationship.mp4?pubId=1041122098001&videoId=1124172675001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 37-Family_supports_husband",
+    "id": 1124873750001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125351263001_vs-1125299676001.jpg?pubId=1041122098001&videoId=1124873750001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125351745001_Families-with-Kids---37-Family-supports-husband.mp4?pubId=1041122098001&videoId=1124873750001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 38-How_to_handle_questions",
+    "id": 1124176108001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240569001_vs-1124219873001.jpg?pubId=1041122098001&videoId=1124176108001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124242559001_Families-with-Kids---38-How-to-handle-questions.mp4?pubId=1041122098001&videoId=1124176108001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 39-Planning_strategies_for_scheduled_leave",
+    "id": 1124172673001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240163001_vs-1124215037001.jpg?pubId=1041122098001&videoId=1124172673001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124242537001_Families-with-Kids---39-Planning-strategies-for-scheduled-leave.mp4?pubId=1041122098001&videoId=1124172673001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 40-Parenting_issues_and_church",
+    "id": 1124176107001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1124240581001_vs-1124219867001.jpg?pubId=1041122098001&videoId=1124176107001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1124242556001_Families-with-Kids---40-Parenting-issues-and-church.mp4?pubId=1041122098001&videoId=1124176107001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 41-Increase_in_strength",
+    "id": 1124873744001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125351400001_vs-1125299652001.jpg?pubId=1041122098001&videoId=1124873744001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125351463001_Families-with-Kids---41-Increase-in-strength.mp4?pubId=1041122098001&videoId=1124873744001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 42-A_son_talks_about_his_experience",
+    "id": 1124588736001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125351257001_vs-1125189843001.jpg?pubId=1041122098001&videoId=1124588736001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125351442001_Families-with-Kids---42-A-son-talks-about-his-experience.mp4?pubId=1041122098001&videoId=1124588736001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 43-Child_care_spousal_deployment",
+    "id": 1124873759001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125351777001_vs-1125339208001.jpg?pubId=1041122098001&videoId=1124873759001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125349447001_Families-with-Kids---43-Child-care-spousal-deployment.mp4?pubId=1041122098001&videoId=1124873759001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 44-Gramig_B09",
+    "id": 1125300032001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125368173001_vs-1125345414001.jpg?pubId=1041122098001&videoId=1125300032001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125368172001_Families-with-Kids---44-Gramig-B09.mp4?pubId=1041122098001&videoId=1125300032001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 45-Gramig_B11",
+    "id": 1125344346001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125367730001_vs-1125348222001.jpg?pubId=1041122098001&videoId=1125344346001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125367729001_Families-with-Kids---45-Gramig-B11.mp4?pubId=1041122098001&videoId=1125344346001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 46-Gramig_B12",
+    "id": 1125300043001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125368212001_vs-1125361533001.jpg?pubId=1041122098001&videoId=1125300043001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125368211001_Families-with-Kids---46-Gramig-B12.mp4?pubId=1041122098001&videoId=1125300043001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 47-Gramig_B23",
+    "id": 1125300030001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125360679001_vs-1125345400001.jpg?pubId=1041122098001&videoId=1125300030001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125360678001_Families-with-Kids---47-Gramig-B23.mp4?pubId=1041122098001&videoId=1125300030001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 48-Gramig_B27",
+    "id": 1125300027001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125360221001_vs-1125345380001.jpg?pubId=1041122098001&videoId=1125300027001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125360220001_Families-with-Kids---48-Gramig-B27.mp4?pubId=1041122098001&videoId=1125300027001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 49-Gramig_B28",
+    "id": 1125344337001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125356713001_vs-1125348200001.jpg?pubId=1041122098001&videoId=1125344337001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125356712001_Families-with-Kids---49-Gramig-B28.mp4?pubId=1041122098001&videoId=1125344337001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 50-Gramig_B31",
+    "id": 1125300019001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125355941001_vs-1125345351001.jpg?pubId=1041122098001&videoId=1125300019001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125355940001_Families-with-Kids---50-Gramig-B31.mp4?pubId=1041122098001&videoId=1125300019001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 51-Lewis_B22",
+    "id": 1125300015001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125355988001_vs-1125345336001.jpg?pubId=1041122098001&videoId=1125300015001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125355987001_Families-with-Kids---51-Lewis-B22.mp4?pubId=1041122098001&videoId=1125300015001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 52-Lewis_B24",
+    "id": 1125255187001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125356037001_vs-1125344063001.jpg?pubId=1041122098001&videoId=1125255187001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125356036001_Families-with-Kids---52-Lewis-B24.mp4?pubId=1041122098001&videoId=1125255187001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 53-The_impact_of_mothers_deployment",
+    "id": 1125255148001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125350593001_vs-1125259446001.jpg?pubId=1041122098001&videoId=1125255148001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125350667001_Families-with-Kids---53-The-impact-of-mothers-deployment.mp4?pubId=1041122098001&videoId=1125255148001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 54-Describing_regular_contact",
+    "id": 1125300069001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125389613001_vs-1125377780001.jpg?pubId=1041122098001&videoId=1125300069001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125387191001_Families-with-Kids---54-Describing-regular-contact.mp4?pubId=1041122098001&videoId=1125300069001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 55-Regular_email_and_phone_contact",
+    "id": 1125344361001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125372909001_vs-1125363939001.jpg?pubId=1041122098001&videoId=1125344361001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125372915001_Families-with-Kids---55-Regular-email-and-phone-contact.mp4?pubId=1041122098001&videoId=1125344361001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 56-Husbands_handling_of_household",
+    "id": 1124588726001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125351217001_vs-1125189821001.jpg?pubId=1041122098001&videoId=1124588726001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125351239001_Families-with-Kids---56-Husbands-handling-of-household.mp4?pubId=1041122098001&videoId=1124588726001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 57-Husbands_handling_of_household",
+    "id": 1124588706001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125339971001_vs-1125126599001.jpg?pubId=1041122098001&videoId=1124588706001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125339974001_Families-with-Kids---57-Husbands-handling-of-household.mp4?pubId=1041122098001&videoId=1124588706001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 58_A_dads_parenting",
+    "id": 1130534858001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1130559888001_vs-1130546583001.jpg?pubId=1041122098001&videoId=1130534858001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1130559291001_Families-with-Kids---58-A-dads-parenting.mp4?pubId=1041122098001&videoId=1130534858001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 59-Observations_of_parents_deployment",
+    "id": 1124574775001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125350117001_vs-1125068480001.jpg?pubId=1041122098001&videoId=1124574775001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125350124001_Families-with-Kids---59-Observations-of-parents-deployment.mp4?pubId=1041122098001&videoId=1124574775001",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Families with Kids - 60-Coping_with_parents_deployment",
+    "id": 1124574774001,
+    "img": "https://brightcove.hs.llnwd.net/e1/pd/1041122098001/1041122098001_1125342897001_vs-1125068474001.jpg?pubId=1041122098001&videoId=1124574774001",
+    "src": "https://brightcove.hs.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1125345943001_Families-with-Kids---60-Coping-with-parents-deployment.mp4?pubId=1041122098001&videoId=1124574774001",
+    "author":"T2","url":"","featured":false
+  }
+];
+export const familyFriendsVids = [
   {
     "title": "01-Family_Friendships",
     "id": 3137337014001,
@@ -1467,4 +2150,117 @@ export const familyKidsVids = [
     "src": "https://udso-a.akamaihd.net/923136676001/923136676001_3137671797001_1041122098001-1123802056001-65---Fam-GLewis2.mp4?pubId=923136676001&videoId=3137337013001",
     "author":"T2","url":"","featured":false
   }
+];
+
+export const mtbiVids = [
+  {
+    "title": "What is TBI",
+    "id": 1695607157001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/mtbi-what-is-tbi.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1695629707001_TBI-1.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Measuring Severity of TBI",
+    "id": 1695621952001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/mtbi-measuring-severity-of-tbi.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1785280060001_TBI-2v2.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Symptoms of TBI",
+    "id": 1695621950001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/mtbi-symptoms-of-tbi.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1695624834001_TBI-3.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Treating TBI",
+    "id": 1695607145001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/mtbi-treating-tbi.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1695624892001_TBI-4.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Recovery from Concussion",
+    "id": 1695616706001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/mtbi-recovery-from-concussion.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1785295016001_TBI-5v2.mp4",
+    "author":"T2","url":"","featured":false
+  }
+];
+
+export const financeVids = [
+  {
+    "title": "Why a Spending Plan",
+    "id": 1878677718001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/finance-why-spending-plan.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1878700849001_FH-1.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "SMART Goals",
+    "id": 1878682544001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/finance-smart-goals.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1878694376001_FH-2.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Impulse Buying",
+    "id": 1878682524001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/finance-impulse-buying.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1878685090001_FH-3.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Predatory Lending",
+    "id": 1878645723001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/finance-predatory-lending.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1878681068001_FH-4.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Financially Fit",
+    "id": 1878632414001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/finance-financially-fit.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_1878678384001_FH-5.mp4",
+    "author":"T2","url":"","featured":false
+  }  
+];
+export const suicideVids = [
+  {
+    "title": "Taking A Toll",
+    "id": 2029277812001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-taking-toll.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029363701001_Suicide-1.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Who's At Risk?",
+    "id": 2029355129001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-whos-risk.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029355998001_Suicide-2.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Warning Signs",
+    "id": 2029340994001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-warning-signs.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029355946001_Suicide-3.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "What You Should Do",
+    "id": 2029340989001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-what-you-should-do.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029349194001_Suicide-4.mp4",
+    "author":"T2","url":"","featured":false
+  },
+  {
+    "title": "Reasons To Live",
+    "id": 2029277797001,
+    "img": "http://afterdeployment.dcoe.mil/sites/default/files/images/topics/rollovers/suicide-reasons-live.jpg",
+    "src": "http://brightcove.vo.llnwd.net/e1/uds/pd/1041122098001/1041122098001_2029343662001_Suicide-5.mp4",
+    "author":"T2","url":"","featured":false
+  }  
 ];
